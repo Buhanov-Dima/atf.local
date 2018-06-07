@@ -229,3 +229,74 @@
     bottom: 0;
     margin: auto;
 }
+.c_roadmap-line.slick-current.active::before, .c_roadmap-line.active:hover::before {
+    border-color: #d1b603;
+}
+.c_roadmap-box {
+    display: none;
+}
+.c_roadmap-box.slick-current {
+    display: block;
+}
+.box-2010, .box-2011, .box-2012, .box-2013, .box-2014, .box-2015, .box-2016, .box-2017, .box-2018 {
+    display: none;
+}
+
+.wrap-main-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+}
+.main-b1, .main-b2 { width: 50%; }
+.main-b1 h4{
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+.timer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 380px;
+    margin: auto;
+}
+
+.timer span{
+  font-size: 42px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.timer p{
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+}
+
+.timer div {
+    text-align: center;
+    position: relative;
+}
+.wp_ref_op {
+    text-align: center;
+    margin: 40px;
+}
+.wp_ref_op a{
+    margin: 0 15px;
+    text-transform: uppercase;
+}
+.mg-t-3 {margin-top: 3em;}
+.mg-t-5 {margin-top: 5em;}
+.c_faq-btn {text-decoration: none;}
+
+.timer b{
+    position: absolute;
+    right: -32px;
+    font-size: 42px;
+    font-weight: 300;
+}
