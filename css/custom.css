@@ -498,7 +498,35 @@
 .h_desc {
     opacity: 0;
     transition: 1.5s;
+    position: absolute;
+    left: 0;
+    right: 0;
 }
 .h_desc.act-new {
     opacity: 1;
+}
+
+.main-h1-b1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    transition: .7s;
+}
+.header-bg {
+}
+.h_middle h1 {
+}
+
+.bg-header {
+    position: absolute;
+    width: 100%;
+    height: 1300px;
+    background: url('/img/bg-head.jpg') center top no-repeat;
+}
+
+.h_middle {
+    position: relative;
+}
+.h_graf {
+    margin-top: 145px;
 }

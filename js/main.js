@@ -156,4 +156,20 @@ $(document).ready(function(){
     setTimeout(function () {
         $(".h_desc").addClass("act-new");
     }, 1100);
+
+
+    //paralax 
 });
+
+$(window).bind('scroll',function(e){
+    parallaxScroll();
+});
+ 
+function parallaxScroll(){
+    var scrolled = $(window).scrollTop();
+    $('.h_desc').css('top',(90-(scrolled*.15))+'px');
+    $('.main-h1-b1').css('top',(90+(scrolled*.135))+'px');
+    $('.header-bg').css('top',(100-(scrolled*.10))+'px');
+    $('.bg-header').css('top',(0+(scrolled*.525))+'px');
+    
+}
