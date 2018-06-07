@@ -449,3 +449,17 @@
     background: url(/img/bg-footer.jpg) no-repeat left bottom -396px;
     background-size: 100%;
 }
+
+
+/******плавное появление текста******/
+.main-h1-b1 .main-h1-b1_new { opacity: 0; }
+.main-h1-b1 .main-h1-b1_opacity {
+  -webkit-transition: opacity 1.7s ease-in-out;
+  -moz-transition: opacity 1.7s ease-in-out;
+  -ms-transition: opacity 1.7s ease-in-out;
+  -o-transition: opacity 1.7s ease-in-out;
+  transition: opacity 1.7s ease-in-out;
+  opacity: 1;
+}
+/******плавное появление текста******/
+

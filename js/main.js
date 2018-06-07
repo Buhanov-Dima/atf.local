@@ -131,5 +131,16 @@ $(document).ready(function(){
     updater(document.getElementById("days"), document.getElementById("hours"), document.getElementById("minutes"), 
     document.getElementById("seconds"));
 
-
+    $.fn.animate_Text = function() {
+      var string = this.text();
+      return this.each(function(){
+       var $this = $(this);
+       $this.html(string.replace(/./g, '<span class="main-h1-b1_new">$&</span>'));
+       $this.find('span.main-h1-b1_new').each(function(i, el){
+        setTimeout(function(){ $(el).addClass('main-h1-b1_opacity'); }, 20 * i);
+       });
+      });
+     };
+     $('.main-h1-b1').show();
+     $('.main-h1-b1').animate_Text();
 });
