@@ -248,8 +248,12 @@
     justify-content: space-between;
     padding: 50px;
     position: relative;
+    transition: 1s;
+    opacity: 0;
 }
-
+.wrap-main-block.act-new {
+    opacity: 1;
+}
 .wrap-main-block::before {
     content: '';
     display: block;
@@ -360,6 +364,17 @@
   display: block;
   background-color: rgb(52, 106, 241);
   position: absolute;
+  width: 0;
+  height: 100%;
+  left: 0;
+  top: 0;
+  transition: 2s;
+}
+.progressbar.act-new::before {
+  content: '';
+  display: block;
+  background-color: rgb(52, 106, 241);
+  position: absolute;
   width: 28%;
   height: 100%;
   left: 0;
@@ -426,8 +441,12 @@
     justify-content: space-between;
     align-items: center;
     margin: 50px auto;
+    transition: 1s;
+    opacity: 0;
 }
-
+.widgets.act-new {
+    opacity: 1;
+}
 .bg-team-advisor{
     background: url(/img/bg-team.png) no-repeat right center;
     background-size: 70%;

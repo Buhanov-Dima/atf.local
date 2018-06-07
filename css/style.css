@@ -268,7 +268,12 @@ input, textarea {
   padding-bottom: 70px;
 }
 
-
+.hidden{
+     opacity:0;
+}
+.visible{
+     opacity:1;
+}
 
 
 

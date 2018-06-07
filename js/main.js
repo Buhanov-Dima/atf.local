@@ -157,8 +157,23 @@ $(document).ready(function(){
         $(".h_desc").addClass("act-new");
     }, 1100);
 
+    // плавное появление
+    setTimeout(function () {
+        $(".wrap-main-block").addClass("act-new");
+    }, 1500);
+
+    // плавное появление
+    setTimeout(function () {
+        $(".widgets").addClass("act-new");
+    }, 2000);
+    // плавное появление
+    setTimeout(function () {
+        $(".progressbar").addClass("act-new");
+    }, 2500);
+    // плавное появление
 
     //paralax 
+    
 });
 
 $(window).bind('scroll',function(e){
@@ -171,5 +186,4 @@ function parallaxScroll(){
     $('.main-h1-b1').css('top',(90+(scrolled*.135))+'px');
     $('.header-bg').css('top',(100-(scrolled*.10))+'px');
     $('.bg-header').css('top',(0+(scrolled*.525))+'px');
-    
 }
