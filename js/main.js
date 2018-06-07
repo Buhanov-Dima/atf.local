@@ -131,6 +131,8 @@ $(document).ready(function(){
     updater(document.getElementById("days"), document.getElementById("hours"), document.getElementById("minutes"), 
     document.getElementById("seconds"));
 
+
+     // побуквенное появление заголовка
     $.fn.animate_Text = function() {
       var string = this.text();
       return this.each(function(){
@@ -143,4 +145,15 @@ $(document).ready(function(){
      };
      $('.main-h1-b1').show();
      $('.main-h1-b1').animate_Text();
+
+
+     // плавное появление bg
+    setTimeout(function () {
+        $(".header-bg").addClass("header-bg-load");
+    }, 300);
+
+     // плавное появление текста под заголовком
+    setTimeout(function () {
+        $(".h_desc").addClass("act-new");
+    }, 1100);
 });
