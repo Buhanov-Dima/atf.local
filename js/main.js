@@ -87,6 +87,9 @@ $(document).ready(function(){
       e.preventDefault();
       $(".c_roadmap-line").removeClass('slick-current');
       $(this).addClass('slick-current');
+      $(".c_roadmap-info .c_roadmap-box.slick-current").removeClass('slick-current');
+      console.log($(this).attr('data-id'));
+      $('.c_roadmap-box[data-id='+$(this).attr('data-id')+']').addClass('slick-current');
     })
 
     function updater(d, h, m, s) {
@@ -127,4 +130,6 @@ $(document).ready(function(){
      
     updater(document.getElementById("days"), document.getElementById("hours"), document.getElementById("minutes"), 
     document.getElementById("seconds"));
+
+
 });

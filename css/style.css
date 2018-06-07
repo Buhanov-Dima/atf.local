@@ -1986,6 +1986,8 @@ label.error:after {
 	left: calc(50% - 200px);
 }
 
+.c_roadmap-info .c_roadmap-box {display: none;}
+.c_roadmap-info .c_roadmap-box.slick-current {display: block;}
 
 
 
