@@ -427,3 +427,25 @@
     align-items: center;
     margin: 50px auto;
 }
+
+.bg-team-advisor{
+    background: url(/img/bg-team.png) no-repeat right center;
+    background-size: 70%;
+}
+.bg-team-advisor-2 {
+    background: url(/img/bg-team-2.png) no-repeat left bottom;
+    background-size: 30%;  
+}
+
+.bg-faq {
+    background: url(/img/bg-sky-1.jpg) no-repeat center;
+    background-size: 100%;    
+}
+.bg-faq-2 {
+    background: url(/img/bg-plans.png) no-repeat center;
+    background-size: 40%;
+}
+.bg-footer {
+    background: url(/img/bg-footer.jpg) no-repeat left bottom -396px;
+    background-size: 100%;
+}
