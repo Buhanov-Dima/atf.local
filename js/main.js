@@ -6,8 +6,8 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            767:{
-                items:2
+            0:{
+                items:1
             },
             993:{
                 items:2
@@ -25,8 +25,8 @@ $(document).ready(function(){
     dots:false,
     navText:false,
         responsive:{
-            767:{
-                items:5
+            0:{
+                items:1
             },
             993:{
                 items:5
@@ -44,8 +44,8 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            767:{
-                items:4
+            0:{
+                items:1
             },
             993:{
                 items:6
@@ -82,8 +82,8 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            767:{
-                items:2
+            0:{
+                items:1
             },
             993:{
                 items:3
@@ -101,8 +101,8 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            767:{
-                items:2
+            0:{
+                items:1
             },
             993:{
                 items:3
