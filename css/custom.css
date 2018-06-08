@@ -778,3 +778,117 @@
 	background-color: rgba(0, 0, 0, 0.4);
 	padding: 15px 0;
 }
+
+.howitbox-n {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+}
+.hwb-1::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-1.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-2::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-2.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-3::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-3.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-4::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-4.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-5::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-5.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-6::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-6.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-7::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-7.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}
+.hwb-8::before {
+	content: '';
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+    background: url(/img/box-8.png) no-repeat left top -15px;
+    background-size: 100%;
+    z-index: 10;
+}

@@ -2,4 +2,5 @@
 .c_solution-item {width: 45%;} .c_structure-graf {left: 0; right: 0; margin: auto; position: relative;} .c_structure-info {position: relative; margin: auto; margin-top: 35px;}
 .c_structure-list p { margin: 10px 15px; } .c_document-item {width: 48%;} .c_team-item {width: 80%; margin: auto;} .c_team-item::before, .c_team-item::after {display: none;}
 #main_nav-2 {display: block;} #main_nav {display: none;} .h_box .h_nav {display: none;} .h_signin {position: absolute; right: 65px;}
-.m_inb.f_top {justify-content: space-around;}
+.m_inb.f_top {justify-content: space-around;} .c_howit-item {position: relative; width: 100%;} .wrap-howitbox {position: relative; width: 100%; min-height: 452px;}
+.widgets.act-new {flex-wrap: wrap; justify-content: center;} .widgets.act-new img {margin: 10px;} .c_what-indust::before {max-width: 500px;}

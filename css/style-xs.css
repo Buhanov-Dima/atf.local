@@ -1,0 +1,5 @@
+.h_middle h1 {font-size: 20px;} .h_desc {font-size: 14px;} .m_inb {min-width: auto;} .h_logo {width: 100px; background-size: contain; margin-top: 11px;}
+.main-b1, .main-b2 {padding: 0;} .timer span {font-size: 30px;} .timer b {right: -10px; font-size: 28px;} .timer p {font-size: 12px;}
+.wrap-main-block {padding: 50px 0;} .timer {max-width: 210px;} .m_box {min-width: auto;} .c_what-home, .c_what-indust {padding-right: 0;} .c_what-home::before {width: 100%;}
+.c_solution-item {width: 100%;} .c_what-indust::before, .c_what-home::before {left: 0;}
+.c_howit-box, .howitbox-n {width: 215px;}

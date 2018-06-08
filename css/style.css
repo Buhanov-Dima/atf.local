@@ -918,10 +918,13 @@ input, textarea {
 .c_howit-box {
   position: absolute;
   top: 0;
-  left: calc(50% - 145px);
-  width: 291px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 315px;
   height: 452px;
-  background: url('/img/bg-howit-box.png') no-repeat;
+  background: url('/img/appliances.png') no-repeat left top -15px;
+  background-size: 100%;
   z-index: 10;
 }
 .c_howit-box__dot {
