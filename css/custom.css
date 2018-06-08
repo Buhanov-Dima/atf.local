@@ -731,3 +731,19 @@
 	top: 0;
 	background-color: rgb(206, 122, 7);
 }
+.c_press-item__thumb {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+.c_press-item__thumb::before {
+	content: '';
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: #ffffff;
+	z-index: -10;
+}
