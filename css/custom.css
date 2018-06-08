@@ -621,6 +621,113 @@
 	
 	width: auto;
 }
-.slaider-team-list, .slaider-team-list-2 {
+.slaider-team-list.owl-carousel, .slaider-team-list-2.owl-carousel {
 	display: none;
+}
+.open-slaider {
+	display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    -ms-align-items: flex-start;
+    align-items: flex-start;
+    background-color: rgba(30, 36, 85, .4);
+    border: 3px solid rgba(56, 64, 127, .4);
+    margin-top: 55px;
+}
+
+.c_structure-list {
+	display: flex;
+	justify-content: space-around;
+}
+.c_structure-list p {
+	position: relative;
+}
+.c_structure-list p::before{
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+}
+.check-token-1::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(247, 148, 29);
+}
+
+.check-token-2::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(65, 58, 138);
+}
+
+.check-token-3::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(145, 11, 207);
+}
+
+.check-token-4::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(236, 0, 140);
+}
+
+.check-token-5::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(215, 215, 215);
+}
+
+.check-token-6::before {
+	content: '';
+	display: block;
+	position: absolute;
+	border-radius: 3px;
+	width: 22px;
+	height: 22px;
+	left: -30px;
+	top: 0;
+	background-color: rgb(206, 122, 7);
 }
