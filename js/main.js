@@ -25,8 +25,8 @@ $(document).ready(function(){
     dots:false,
     navText:false,
         responsive:{
-            0:{
-                items:1
+            576:{
+                items:3
             },
             993:{
                 items:5
@@ -44,8 +44,8 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            0:{
-                items:1
+            576:{
+                items:4
             },
             993:{
                 items:6
