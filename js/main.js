@@ -227,7 +227,7 @@ function parallaxScroll(){
 };
 
 jQuery(document).ready(function() {
-    jQuery('.c_head').addClass("hidden").viewportChecker({
+    jQuery('.c_head-1').addClass("hidden").viewportChecker({
         classToAdd: 'visible',
         offset: 100
        });
