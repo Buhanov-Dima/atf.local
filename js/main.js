@@ -9,10 +9,10 @@ $(document).ready(function(){
             0:{
                 items:1
             },
-            600:{
-                items:1
+            993:{
+                items:2
             },
-            1000:{
+            1200:{
                 items:3
             }
         }  
@@ -28,10 +28,10 @@ $(document).ready(function(){
             0:{
                 items:1
             },
-            600:{
-                items:1
+            993:{
+                items:5
             },
-            1000:{
+            1200:{
                 items:6
             }
         }  
@@ -47,10 +47,10 @@ $(document).ready(function(){
             0:{
                 items:1
             },
-            600:{
-                items:1
+            993:{
+                items:6
             },
-            1000:{
+            1200:{
                 items:7
             }
         }  
@@ -74,6 +74,44 @@ $(document).ready(function(){
             }
         }  
 	});
+
+    $(".slaider-team-list").owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    navText:false,
+        responsive:{
+            0:{
+                items:1
+            },
+            993:{
+                items:3
+            },
+            1200:{
+                items:4
+            }
+        }  
+    });
+
+    $(".slaider-team-list-2").owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    navText:false,
+        responsive:{
+            0:{
+                items:1
+            },
+            993:{
+                items:3
+            },
+            1200:{
+                items:4
+            }
+        }  
+    });
 
     // roadmap click info
 
@@ -186,4 +224,12 @@ function parallaxScroll(){
     $('.main-h1-b1').css('top',(90+(scrolled*.135))+'px');
     $('.header-bg').css('top',(100-(scrolled*.10))+'px');
     $('.bg-header').css('top',(0+(scrolled*.525))+'px');
-}
+};
+
+jQuery(document).ready(function() {
+    jQuery('.c_head').addClass("hidden").viewportChecker({
+        classToAdd: 'visible',
+        offset: 100
+       });
+});
+
