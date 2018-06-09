@@ -48,7 +48,7 @@
     width: 50px;
     height: 50px;
     position: absolute;
-    right: -25px;
+    right: -40px;
     top: 75px;
     bottom: 0;
 }
@@ -73,7 +73,7 @@
     width: 50px;
     height: 50px;
     position: absolute;
-    left: -25px;
+    left: -40px;
     top: 75px;
     bottom: 0;
 }
@@ -442,6 +442,10 @@
 .bg-team-advisor-2 {
     background: url(/img/bg-team-2.png) no-repeat left bottom;
     background-size: 30%;  
+}
+.bg-team-advisor-3 {
+    background: url(/img/bg-team-3.png) no-repeat center;
+    background-size: 100%;  
 }
 
 .bg-faq {
@@ -973,3 +977,79 @@ canvas {
 .c_team-item__thumb img {width: 100%;}
 #last-man.c_team-item::before {top: 17px; left: 0; right: -1px; width: 3px; height: calc(100% - 34px);}
 #last-man.c_team-item .c_team-item__thumb::before {content: ''; position: absolute; display: block; background-color: #38407f; top: -1px; left: 17px; opacity: .6; width: calc(100% - 34px); height: 3px; z-index: -1;}
+.bg-world {
+    background: url(/img/bg-world.png) no-repeat center;
+    background-size: 100%;
+}
+.c_token table {margin-top: 40px;}
+.c_press-item__thumb img{ background-size: contain; }
+.c_press-item__thumb { display: flex; justify-content: center;align-items: center; background-color: #ffffff; padding: 15px;}
+div.c_press-item {display: flex; align-items: center;}
+.c_press-item {align-items: center; min-height: 200px;}
+.owl-dots {text-align: center;}
+.slaider-team .owl-dots button.owl-dot.active {width: 10px; height: 10px; background-color: #ffffff; border-radius: 10px; cursor: pointer;}
+.slaider-team .owl-dots button.owl-dot {width: 10px; margin: 0 5px; height: 10px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; cursor: pointer;}
+
+.slaider-2 .owl-dots button.owl-dot.active {width: 10px; height: 10px; background-color: #ffffff; border-radius: 10px; cursor: pointer;}
+.slaider-2 .owl-dots button.owl-dot {width: 10px; margin: 0 5px; height: 10px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; cursor: pointer;}
+.slaider-2 .owl-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    z-index: 0;
+}
+
+.slaider-2 .owl-nav button.owl-next{
+    transform: rotate(-135deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -45px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider-2 .owl-nav button.owl-next::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-2 .owl-nav button.owl-prev{
+    transform: rotate(45deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: -45px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider-2 .owl-nav button.owl-prev::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
