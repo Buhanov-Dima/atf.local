@@ -7,8 +7,11 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            0:{
+            320:{
                 items:1
+            },
+            576:{
+                items:2
             },
             993:{
                 items:2
@@ -18,6 +21,83 @@ $(document).ready(function(){
             }
         }  
 	});
+
+    $(".slaider-2-2").owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    dots:false,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            }
+        }  
+    });
+    $(".slaider-c_sales-list").owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    autoHeight:false,
+    dots:false,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            }
+        }  
+    });
+    $(".slaider-c_faq-list").owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    dots:false,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            }
+        }  
+    });
+    $(".slaider-documents").owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    dots:false,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            }
+        }  
+    });
 	$(".slaider").owlCarousel({
     loop:false,
     margin:10,
@@ -86,8 +166,11 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            0:{
+            320:{
                 items:1
+            },
+            576:{
+                items:2
             },
             993:{
                 items:3
@@ -98,6 +181,26 @@ $(document).ready(function(){
         }  
     });
 
+    $(".slaider-solutions").owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoHeight:true,
+    navText:false,
+        responsive:{
+            320:{
+                items:1
+            },
+            576:{
+                items:2
+            },
+            993:{
+                items:2
+            }
+            
+        }  
+    });
+
     $(".slaider-team-list-2").owlCarousel({
     loop:true,
     margin:10,
@@ -105,8 +208,11 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
-            0:{
+            320:{
                 items:1
+            },
+            576:{
+                items:2
             },
             993:{
                 items:3

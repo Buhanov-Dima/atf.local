@@ -1,6 +1,6 @@
-.c_problems-info {width: auto;} .slaider .owl-nav, .slaider-1 .owl-nav, .slaider-team .owl-nav {display: none;} .c_tech-info {width: auto;}
+.c_problems-info {width: auto;} .c_tech-info {width: auto;}
 .h_nav li {margin: 0 10px;} .main-b1, .main-b2 {width: 100%;} .wrap-main-block::before {display: none;} .main-b2 {margin-top: 0;}
 .c_roadmap-list::before {left: 0; right: 0; margin: auto;} .c_why-item {width: auto;}
 .c_structure-graf {width: 350px; height: 350px; background-size: 100%;} .c_structure-list {flex-wrap: wrap;} .c_structure-list p {margin: 0 15px;}
 .c_faq-box {width: 50%; margin: 15px 0;} .c_sales-video {width: 90%; margin: 25px auto;} .c_sales-box1 {width: 45%; margin: auto;} .c_sales-box2 {width: 42%; margin: auto;}
-.m_inb.f_top .h_logo{position: absolute; top: -75px; margin: auto; left: 0; right: 0;}
+.m_inb.f_top .h_logo{position: absolute; top: -75px; margin: auto; left: 0; right: 0;} .slaider, .slaider-1, .slaider-2, .slaider-team {max-width: 600px;}

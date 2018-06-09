@@ -989,6 +989,9 @@ div.c_press-item {display: flex; align-items: center;}
 .owl-dots {text-align: center;}
 .slaider-team .owl-dots button.owl-dot.active {width: 10px; height: 10px; background-color: #ffffff; border-radius: 10px; cursor: pointer;}
 .slaider-team .owl-dots button.owl-dot {width: 10px; margin: 0 5px; height: 10px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; cursor: pointer;}
+.owl-dots {text-align: center;}
+.slaider-solutions .owl-dots button.owl-dot.active {width: 10px; height: 10px; background-color: #ffffff; border-radius: 10px; cursor: pointer;}
+.slaider-solutions .owl-dots button.owl-dot {width: 10px; margin: 0 5px; height: 10px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; cursor: pointer;}
 
 .slaider-2 .owl-dots button.owl-dot.active {width: 10px; height: 10px; background-color: #ffffff; border-radius: 10px; cursor: pointer;}
 .slaider-2 .owl-dots button.owl-dot {width: 10px; margin: 0 5px; height: 10px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px; cursor: pointer;}
@@ -1009,9 +1012,8 @@ div.c_press-item {display: flex; align-items: center;}
     height: 50px;
     position: absolute;
     right: -45px;
-    top: 0;
+    top: 330px;
     bottom: 0;
-    margin: auto;
 }
 .slaider-2 .owl-nav button.owl-next::after{
     content: '';
@@ -1035,9 +1037,8 @@ div.c_press-item {display: flex; align-items: center;}
     height: 50px;
     position: absolute;
     left: -45px;
-    top: 0;
+    top: 330px;
     bottom: 0;
-    margin: auto;
 }
 .slaider-2 .owl-nav button.owl-prev::after{
     content: '';
@@ -1053,3 +1054,214 @@ div.c_press-item {display: flex; align-items: center;}
     bottom: 0;
     margin: auto;
 }
+
+
+
+.slaider-documents .owl-nav button.owl-next{
+    transform: rotate(-135deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -45px;
+    top: 330px;
+    bottom: 0;
+}
+.slaider-documents .owl-nav button.owl-next::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-documents .owl-nav button.owl-prev{
+    transform: rotate(45deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: -45px;
+    top: 330px;
+    bottom: 0;
+}
+.slaider-documents .owl-nav button.owl-prev::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider-2 {width: 100%; max-width: 1050px; margin: auto; }
+.slaider-solutions, .slaider-documents {display: none;}
+
+.slaider-team-list-2 .owl-nav button.owl-next{
+    transform: rotate(-135deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-team-list-2 .owl-nav button.owl-next::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-team-list-2 .owl-nav button.owl-prev{
+    transform: rotate(45deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-team-list-2 .owl-nav button.owl-prev::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-c_faq-list { display: none; }
+
+.slaider-c_faq-list .owl-nav button.owl-next{
+    transform: rotate(-135deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-c_faq-list .owl-nav button.owl-next::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-c_faq-list .owl-nav button.owl-prev{
+    transform: rotate(45deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-c_faq-list .owl-nav button.owl-prev::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+
+.slaider-c_sales-list {display: none;}
+
+.slaider-c_sales-list .owl-nav button.owl-next{
+    transform: rotate(-135deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-c_sales-list .owl-nav button.owl-next::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-c_sales-list .owl-nav button.owl-prev{
+    transform: rotate(45deg);
+    outline: none;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: -45px;
+    top: 250px;
+    bottom: 0;
+}
+.slaider-c_sales-list .owl-nav button.owl-prev::after{
+    content: '';
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.slaider-2-2 {display: none;}
