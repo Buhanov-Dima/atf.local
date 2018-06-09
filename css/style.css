@@ -643,6 +643,7 @@ input, textarea {
   width: 466px;
   height: 471px;
   background: url('/img/bg-what-home.png') center no-repeat;
+  background-size: contain;
 }
 .c_what-indust {
   width: 52%;
@@ -658,6 +659,7 @@ input, textarea {
   width: 753px;
   height: 493px;
   background: url('/img/bg-what-indust.png') center no-repeat;
+  background-size: contain;
 }
 .c_what-title {
   margin-bottom: 25px;

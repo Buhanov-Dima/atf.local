@@ -25,6 +25,9 @@ $(document).ready(function(){
     dots:false,
     navText:false,
         responsive:{
+            320:{
+                items:2
+            },
             576:{
                 items:3
             },
@@ -113,6 +116,21 @@ $(document).ready(function(){
         }  
     });
 
+    $('.c_howit-box__dot').hover(function(){
+    let idDot = $(this).data('id');
+    $('.c_howit-item__point'+idDot).addClass('active').siblings().removeClass('active');
+    $(this).addClass('active').siblings().removeClass('active');
+  }, function(){
+    $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+  });
+
+  $('.c_howit-item__point').on('click', function(){
+    let idDot = $(this).data('id');
+    $('.c_howit-box__dot'+idDot).addClass('active').siblings().removeClass('active');
+    $(this).parents('.c_howit-mod').find('.c_howit-item__point').removeClass('active');
+    $(this).addClass('active');
+  });
+
     // roadmap click info
 
     $(".c_roadmap-box__line").click(function(e) {
@@ -129,6 +147,22 @@ $(document).ready(function(){
       console.log($(this).attr('data-id'));
       $('.c_roadmap-box[data-id='+$(this).attr('data-id')+']').addClass('slick-current');
     })
+
+      wow = new WOW({
+        boxClass:     'wow',      // default
+        animateClass: 'animated', // default
+        offset:       40,          // default
+        mobile:       false,       // default
+        live:         true        // default
+      });
+      wow.init();
+
+      $("body").on('click', '.goto', function(e){
+        var scrollTo = $(this).data('scroll');
+        $('html,body').stop().animate({ scrollTop: $('#'+scrollTo).offset().top }, 1000);
+        e.preventDefault();
+    });
+
 
     function updater(d, h, m, s) {
       // День сброса - 27 сентября 2015 года (и далее каждые три дня)

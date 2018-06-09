@@ -4,3 +4,4 @@
 #main_nav-2 {display: block;} #main_nav {display: none;} .h_box .h_nav {display: none;} .h_signin {position: absolute; right: 65px;}
 .m_inb.f_top {justify-content: space-around;} .c_howit-item {position: relative; width: 100%;} .wrap-howitbox {position: relative; width: 100%; min-height: 452px;}
 .widgets.act-new {flex-wrap: wrap; justify-content: center;} .widgets.act-new img {margin: 10px;} .c_what-indust::before {max-width: 500px;}
+#particles-js {display: none;}

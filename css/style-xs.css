@@ -2,4 +2,5 @@
 .main-b1, .main-b2 {padding: 0;} .timer span {font-size: 30px;} .timer b {right: -10px; font-size: 28px;} .timer p {font-size: 12px;}
 .wrap-main-block {padding: 50px 0;} .timer {max-width: 210px;} .m_box {min-width: auto;} .c_what-home, .c_what-indust {padding-right: 0;} .c_what-home::before {width: 100%;}
 .c_solution-item {width: 100%;} .c_what-indust::before, .c_what-home::before {left: 0;}
-.c_howit-box, .howitbox-n {width: 215px;}
+.c_howit-box, .howitbox-n {width: 215px;} .c_structure-graf {width: 250px;} .hwb-1::before, .hwb-2::before, .hwb-3::before, .hwb-4::before, .hwb-5::before, .hwb-6::before, .hwb-7::before, .hwb-8::before {width: 215px;}
+.c_token table tr td {padding: 4px 5px; } .c_document-item {width: 100%;}
