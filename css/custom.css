@@ -969,5 +969,7 @@ canvas {
 .c_howit-box__dot9 {top: 50px; left: 138px;}
 .c_howit-box__dot10 {top: 59px; left: 218px;}
 
-.c_howit-box__dot1.active:hover .hwb-1::before { z-index: 11;}
-.hwb-1:hover {z-index: 11;}
+
+.c_team-item__thumb img {width: 100%;}
+#last-man.c_team-item::before {top: 17px; left: 0; right: -1px; width: 3px; height: calc(100% - 34px);}
+#last-man.c_team-item .c_team-item__thumb::before {content: ''; position: absolute; display: block; background-color: #38407f; top: -1px; left: 17px; opacity: .6; width: calc(100% - 34px); height: 3px; z-index: -1;}
