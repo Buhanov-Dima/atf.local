@@ -1107,7 +1107,7 @@ div.c_press-item {display: flex; align-items: center;}
     margin: auto;
 }
 .slaider-2 {width: 100%; max-width: 1050px; margin: auto; }
-.slaider-solutions, .slaider-documents {display: none;}
+.slaider-solutions.owl-carousel, .slaider-documents.owl-carousel, .slaider-c_faq-list.owl-carousel, .slaider-c_sales-list.owl-carousel  {display: none;}
 
 .slaider-team-list-2 .owl-nav button.owl-next{
     transform: rotate(-135deg);
@@ -1263,5 +1263,6 @@ div.c_press-item {display: flex; align-items: center;}
     bottom: 0;
     margin: auto;
 }
-
-.slaider-2-2 {display: none;}
+.d-non-md {display: flex; padding-top: 80px; flex-wrap: wrap; justify-content: center;}
+.slaider-2-2.owl-carousel {display: none;}
+.slaider-solutions.owl-carousel {display: none;}

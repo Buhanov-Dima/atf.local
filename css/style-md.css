@@ -20,7 +20,7 @@
 .c_structure-info.c_structure-info__right { top: 67px; } .c_structure-list {flex-direction: column; justify-content: center; align-items: flex-start; margin-left: 400px; margin-top: -145px;}
 .c_document-list {display: none;} .c_document-item {width: 100%;} .slaider-documents {display: block; padding: 0 60px;}
 .slaider-documents .owl-nav button.owl-next {right: 20px; top: 30%;} .slaider-documents .owl-nav button.owl-prev {left: 20px; top: 30%;}
-.slaider-team-list-2 {padding: 0 10px 25px; background-color: rgba(0, 0, 0, .1);} .slaider-team-list-2 .owl-dots {display: none;} .c_team .m_inb {padding: 0 60px;}
+.slaider-team-list-2 {padding: 0 0px 25px; background-color: rgba(0, 0, 0, .1);} .slaider-team-list-2 .owl-dots {display: none;} .c_team .m_inb {padding: 0 60px;}
 .c_advisors .m_inb {padding: 0 60px;} .c_faq-list {display: none;} .slaider-c_faq-list {display: block;} .c_faq-box {width: 100%; padding: 10px; min-height: 358px;}
 .slaider-c_faq-list {padding: 0 60px;}
 .slaider-c_faq-list .owl-nav button.owl-next {right: 20px; top: 40%;} .slaider-c_faq-list .owl-nav button.owl-prev {left: 20px; top: 40%;}
@@ -29,4 +29,4 @@
 .slaider-c_sales-list {padding: 0 60px;} .c_sales-box1, .c_sales-box2 {width: 100%;} .c_sales-img {margin: 0;}
 .c_sales-video { width: 100%; margin: 0; } .c_sales-box1, .c_sales-box2, .c_sales-video img { width: 215px; height: 175px;} .slaider-2-2 {display: block;}
 .c_press-item {flex-direction: column;} .c_press-item__info {width: 100%;} .slaider-2.owl-carousel {display: none;} div.c_press-item {align-items: flex-start;}
-.m_inb.f_top .h_logo {left: 30px; margin: 0;} .f_nav {display: none;}
+.m_inb.f_top .h_logo {left: 30px; margin: 0;} .f_nav {display: none;} .slaider-team-list-2 .owl-nav button.owl-prev {top: 40%; left: -35px;} .slaider-team-list-2 .owl-nav button.owl-next {top: 40%; right: -35px;}

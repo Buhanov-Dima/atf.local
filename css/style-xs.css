@@ -1,6 +1,17 @@
 .h_middle h1 {font-size: 20px;} .h_desc {font-size: 14px;} .m_inb {min-width: auto;} .h_logo {width: 100px; background-size: contain; margin-top: 11px;}
 .main-b1, .main-b2 {padding: 0;} .timer span {font-size: 30px;} .timer b {right: -10px; font-size: 28px;} .timer p {font-size: 12px;}
-.wrap-main-block {padding: 50px 0;} .timer {max-width: 210px;} .m_box {min-width: auto;} .c_what-home, .c_what-indust {padding-right: 0;} .c_what-home::before {width: 100%;}
-.c_solution-item {width: 100%;} .c_what-indust::before, .c_what-home::before {left: 0;}
-.c_howit-box, .howitbox-n {width: 215px;} .c_structure-graf {width: 250px;} .hwb-1::before, .hwb-2::before, .hwb-3::before, .hwb-4::before, .hwb-5::before, .hwb-6::before, .hwb-7::before, .hwb-8::before {width: 215px;}
-.c_token table tr td {padding: 4px 5px; } .c_document-item {width: 100%;}
+.wrap-main-block {padding: 50px 0;} .timer {max-width: 210px;} .m_box {min-width: auto;} .c_what-home, .c_what-indust {padding-right: 0;} 
+.c_solution-item {width: 100%;}
+.c_howit-box, .howitbox-n {width: 215px;} .c_structure-graf {width: 250px; top: 1127px; bottom: 0; left: 0; right: 0; margin: auto;} .hwb-1::before, .hwb-2::before, .hwb-3::before, .hwb-4::before, .hwb-5::before, .hwb-6::before, .hwb-7::before, .hwb-8::before {width: 215px;}
+.c_token table tr td {padding: 4px 5px; } .c_document-item {width: 100%;} .wp_ref_op {display: flex; flex-direction: column;} .c_problems-info {padding: 10px;}
+.c_solution-item {margin: 0;} .c_what-home {padding: 0; padding-top: 300px;} 
+.c_what-indust {padding: 0; padding-top: 300px;} .c_what-indust::before {left: 10px; max-width: 285px; width: 100%; background-position-x: 0;} .c_tech-info ul li {width: 100%;} .c_howit-item {display: none;}
+.howitbox-n, .c_howit-box {margin: auto;}
+.c_howit-box__dot8 {left: 57px; top: 6px;} .c_why-item {width: 100%;} .c_structure-info {width: 100%;} .c_structure-box {flex-wrap: wrap;}
+.c_structure-list {position: relative; margin: 313px 0 0 40px;}
+.c_howit-box__dot1 {top: 9px; left: 80px;} .c_howit-box__dot4 {top: 28px; left: 84px;} .c_howit-box__dot9 {top: 29px; left: 100px;}
+.c_howit-box__dot3 {top: 19px; left: 119px;} .c_howit-box__dot2 {top: 6px; left: 119px;} .c_howit-box__dot7 {top: 11px; left: 157px;}
+.c_howit-box__dot10 { top: 28px; left: 150px; } .c_howit-box__dot5 {top: 171px; left: 154px;} 
+.c_howit-box__dot11 { top: 224px; left: 151px; } .c_howit-box__dot12 {top: 260px; left: 101px;}
+.c_howit-box__dot6 {top: 256px;} 
+.c_what-home::before {left: 13px; width: 100%; top: -80px; max-width: 275px; background-position-x: 0; }

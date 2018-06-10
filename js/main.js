@@ -107,7 +107,7 @@ $(document).ready(function(){
     navText:false,
         responsive:{
             320:{
-                items:2
+                items:1
             },
             576:{
                 items:3
@@ -128,6 +128,9 @@ $(document).ready(function(){
     autoHeight:true,
     navText:false,
         responsive:{
+            320:{
+                items:2
+            },
             576:{
                 items:4
             },
