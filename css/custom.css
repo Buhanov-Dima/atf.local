@@ -1002,7 +1002,7 @@ div.c_press-item {display: flex; align-items: center;}
     bottom: 0;
     top: 0;
     margin: auto;
-    z-index: 0;
+    z-index: -1;
 }
 
 .slaider-2 .owl-nav button.owl-next{
@@ -1266,3 +1266,6 @@ div.c_press-item {display: flex; align-items: center;}
 .d-non-md {display: flex; padding-top: 80px; flex-wrap: wrap; justify-content: center;}
 .slaider-2-2.owl-carousel {display: none;}
 .slaider-solutions.owl-carousel {display: none;}
+.c_faq-list-open {display: none;}
+.d-none {opacity: 1; width: 589px; height: 520px; }
+.c_press-item__info a {outline: none;}

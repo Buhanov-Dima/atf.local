@@ -230,9 +230,10 @@ $(document).ready(function(){
     let idDot = $(this).data('id');
     $('.c_howit-item__point'+idDot).addClass('active').siblings().removeClass('active');
     $(this).addClass('active').siblings().removeClass('active');
-  }, function(){
-    $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
-  });
+    }, 
+    function(){
+        $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+      });
 
   $('.c_howit-item__point').on('click', function(){
     let idDot = $(this).data('id');
@@ -249,6 +250,7 @@ $(document).ready(function(){
       $(this).addClass('active');
     })
 
+
     $(".c_roadmap-line").click(function(e) {
       e.preventDefault();
       $(".c_roadmap-line").removeClass('slick-current');
@@ -257,6 +259,13 @@ $(document).ready(function(){
       console.log($(this).attr('data-id'));
       $('.c_roadmap-box[data-id='+$(this).attr('data-id')+']').addClass('slick-current');
     })
+
+    $(function() {
+      $('.c_faq-btn').click(function() {
+        $(this).siblings(".c_faq-list-open").toggle();
+        $(this).toggleClass('active');
+      });
+    });
 
       wow = new WOW({
         boxClass:     'wow',      // default
