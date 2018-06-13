@@ -250,6 +250,12 @@ $(document).ready(function(){
       $(this).addClass('active');
     })
 
+    $(".all_questions").click(function(e) {
+      e.preventDefault();
+      $(".all_questions").removeClass('active');
+      $(this).addClass('active');
+    })
+
 
     $(".c_roadmap-line").click(function(e) {
       e.preventDefault();
