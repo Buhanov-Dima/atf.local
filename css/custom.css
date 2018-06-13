@@ -10,6 +10,8 @@
     max-width: 1050px;
     margin: auto;
 }
+
+.d-index:before {z-index: 20 !important;}
 .slaider {
 	width: 100%;
     max-width: 1050px;
@@ -792,6 +794,15 @@
     width: 315px;
     height: 452px;
 }
+.hwb-10::before {background: url('/img/appliances.png') no-repeat left top -15px;background-size: 100%;content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 315px;
+    height: 452px;
+z-index: 19;}
 .hwb-1::before {
 	content: '';
 	position: absolute;

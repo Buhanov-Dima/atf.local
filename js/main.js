@@ -230,17 +230,24 @@ $(document).ready(function(){
     let idDot = $(this).data('id');
     $('.c_howit-item__point'+idDot).addClass('active').siblings().removeClass('active');
     $(this).addClass('active').siblings().removeClass('active');
+    $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
     }, 
     function(){
         $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+        $('.howitbox-n div').removeClass('d-index');
       });
 
-  $('.c_howit-item__point').on('click', function(){
+  $('.c_howit-item__point').hover(function(){
     let idDot = $(this).data('id');
     $('.c_howit-box__dot'+idDot).addClass('active').siblings().removeClass('active');
     $(this).parents('.c_howit-mod').find('.c_howit-item__point').removeClass('active');
+    $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
     $(this).addClass('active');
-  });
+  }, 
+    function(){
+        $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+        $('.howitbox-n div').removeClass('d-index');
+      });
 
     // roadmap click info
 
@@ -260,12 +267,10 @@ $(document).ready(function(){
       $('.c_roadmap-box[data-id='+$(this).attr('data-id')+']').addClass('slick-current');
     })
 
-    $(function() {
       $('.c_faq-btn').click(function() {
         $(this).siblings(".c_faq-list-open").toggle();
         $(this).toggleClass('active');
       });
-    });
 
       wow = new WOW({
         boxClass:     'wow',      // default
@@ -364,6 +369,12 @@ $(document).ready(function(){
     // плавное появление
 
     //paralax 
+
+
+    jQuery('.c_head-1').addClass("hidden").viewportChecker({
+        classToAdd: 'visible',
+        offset: 100
+       });
     
 });
 
@@ -379,10 +390,4 @@ function parallaxScroll(){
     $('.bg-header').css('top',(0+(scrolled*.525))+'px');
 };
 
-jQuery(document).ready(function() {
-    jQuery('.c_head-1').addClass("hidden").viewportChecker({
-        classToAdd: 'visible',
-        offset: 100
-       });
-});
 
