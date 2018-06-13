@@ -925,9 +925,7 @@ input, textarea {
   margin: auto;
   width: 315px;
   height: 452px;
-  background: url('/img/appliances.png') no-repeat left top -15px;
-  background-size: 100%;
-  z-index: 10;
+  z-index: 22;
 }
 .c_howit-box__dot {
   position: absolute;
@@ -2000,8 +1998,6 @@ label.error:after {
 
 .c_roadmap-info .c_roadmap-box {display: none;}
 .c_roadmap-info .c_roadmap-box.slick-current {display: block;}
-
-
 
 /* ==============================================================
    ========================  MEDIA  =============================
