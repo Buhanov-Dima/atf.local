@@ -430,7 +430,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 50px auto;
+    margin: 50px auto 0;
     transition: 1s;
     opacity: 0;
 }
@@ -517,10 +517,12 @@
 }
 .h_desc.act-new {
     opacity: 1;
+    top: 60px;
 }
 
 .main-h1-b1 {
     position: absolute;
+    top: 60px;
     left: 0;
     right: 0;
     transition: .7s;
@@ -528,6 +530,7 @@
 .header-bg {
 }
 .h_middle h1 {
+    max-width: 630px;
 }
 
 .bg-header {
@@ -618,7 +621,7 @@
     padding: 0;
 }
 .h_top {margin-bottom: 50px;}
-.h_middle {padding-top: 40px;}
+.h_middle {padding-top: 40px; padding-bottom: 0;}
 .h_box {
 	display: flex;
 	justify-content: space-around;
@@ -738,8 +741,31 @@
 	height: 22px;
 	left: -30px;
 	top: 0;
-	background-color: rgb(206, 122, 7);
+	background-color: #953735;
 }
+.check-token-7::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 3px;
+    width: 22px;
+    height: 22px;
+    left: -30px;
+    top: 0;
+    background-color: #cb711c;
+}
+.check-token-8::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 3px;
+    width: 22px;
+    height: 22px;
+    left: -30px;
+    top: 0;
+    background-color: #4f81bd;
+}
+
 
 #main_nav-2 {
 	display: none;
@@ -1507,6 +1533,7 @@ div.c_press-item {display: flex; align-items: center;}
 .video-cnt {
     text-align: center;
     margin: 60px auto;
+    max-width: 760px;
 }
 .zag-h {
     color: #ffffff;
@@ -1523,4 +1550,15 @@ div.c_press-item {display: flex; align-items: center;}
 }
 .c_structure-list p{
     width: 25%;
+    margin: 5px 0;
+}
+.c_structure-graf {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 549px;
+    height: 549px;
+    background: url(/img/EMISSION.png) no-repeat center;
 }

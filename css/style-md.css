@@ -5,7 +5,7 @@
 .m_inb.f_top {justify-content: space-around;} .c_howit-item {position: relative; width: 48%; margin-left: auto; z-index: 10;} .wrap-howitbox {position: absolute; width: 100%; min-height: 452px;}
 .widgets.act-new {flex-wrap: wrap; justify-content: center;} .widgets.act-new img {margin: 10px;} .c_what-indust::before {max-width: 500px; background-position: -31px;}
 .c_what-home::before {width: 400px; background-position-x: -67px}
-#particles-js {display: none;} .main-b1, .main-b2 {padding: 50px 0;} .slaider-solutions {display: block;} .d-non-md {display: none;}
+#particles-js {display: none;} .main-b1, .main-b2 {padding: 50px 0;} .slaider-solutions {display: block;} .d-non-md {}
 .c_solution-item {width: 95%; padding: 130px 10px 20px;} .slaider, .slaider-1, .slaider-2, .slaider-team {padding: 0 60px;}
 .slaider .owl-nav button.owl-next {right: 20px;} .slaider .owl-nav button.owl-prev {left: 20px;}
 .slaider-1 .owl-nav button.owl-next {right: 20px;} .slaider-1 .owl-nav button.owl-prev {left: 20px;}
@@ -30,3 +30,4 @@
 .c_sales-video { width: 100%; margin: 0; } .c_sales-box1, .c_sales-box2, .c_sales-video img { width: 215px; height: 175px;} .slaider-2-2 {display: block;}
 .c_press-item {flex-direction: column;} .c_press-item__info {width: 100%;} .slaider-2.owl-carousel {display: none;} div.c_press-item {align-items: flex-start;}
 .m_inb.f_top .h_logo {left: 30px; margin: 0;} .f_nav {display: none;} .slaider-team-list-2 .owl-nav button.owl-prev {top: 40%; left: -35px;} .slaider-team-list-2 .owl-nav button.owl-next {top: 40%; right: -35px;}
+.w-100 img {width: 100%;} .c_solution-item {display: none;}

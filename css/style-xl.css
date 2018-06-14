@@ -4,3 +4,4 @@
 .c_structure-graf {width: 350px; height: 350px; background-size: 100%;} .c_structure-list {flex-wrap: wrap;} .c_structure-list p {margin: 0 15px;}
 .c_faq-box {width: 50%; margin: 15px 0;} .c_sales-video {width: 90%; margin: 25px auto;} .c_sales-box1 {width: 45%; margin: auto;} .c_sales-box2 {width: 42%; margin: auto;}
 .m_inb.f_top .h_logo{position: absolute; top: -75px; margin: auto; left: 0; right: 0;} .slaider, .slaider-1, .slaider-2, .slaider-team {max-width: 600px;}
+.wrap-icons {flex-wrap: wrap;justify-content: center;}

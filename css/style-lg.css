@@ -1,5 +1,5 @@
 .slaider, .slaider-1, .slaider-team, .slaider-2  {max-width: 850px;} .c_why-gallery {margin-left: 0;} #d-none-lg {display: none;}
-.h_share {display: none;} #main_nav {display: block;} .c_structure-info__left {right: 0; left: auto; top: 0;} .c_structure-graf {left: 0;} .c_structure-info{top: auto;}
+.h_share {display: none;} #main_nav {display: block;} .c_structure-info__left {right: 0; left: auto; top: 0;} .c_structure-graf {left: 0; margin: 0;} .c_structure-info{top: auto;}
 .c_structure-info.c_structure-info__right {bottom: 0;} .c_team-item {width: auto;} .slaider-team-list {display: block;} .slaider-team-list-2 {display: block;}
 .slaider-team-list.owl-carousel, .slaider-team-list-2.owl-carousel {display: block;} .open-slaider {display: none;}
 .slaider-team-list-2 {padding: 0 60px;} .slaider-team-list-2 .owl-nav button.owl-next {right: 0;} .slaider-team-list-2 .owl-nav button.owl-prev {left: 0;}
