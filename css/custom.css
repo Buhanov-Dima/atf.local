@@ -1563,3 +1563,24 @@ div.c_press-item {display: flex; align-items: center;}
     background: url(/img/EMISSION.png) no-repeat center;
 }
 .c_roadmap-box {width: 100%;}
+.wrap-questions p{
+    color: #000000;
+}
+.wrap-questions a{
+    display: block;
+    width: 220px;
+    height: 45px;
+    background-color: #d07d05;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 9px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.wrap-questions ul {
+    margin-top: 15px;
+    padding-left: 50px;
+    color: #000;
+}
