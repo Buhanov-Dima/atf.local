@@ -273,10 +273,17 @@ $(document).ready(function(){
       $('.c_roadmap-box[data-id='+$(this).attr('data-id')+']').addClass('slick-current');
     })
 
-      $('.c_faq-btn').click(function() {
-        $(this).siblings(".c_faq-list-open").toggle();
-        $(this).toggleClass('active');
-      });
+
+
+    $(".c_faq-box a").click(function(e) {
+      e.preventDefault();
+      $(".c_faq-box a").removeClass('active');
+      $(this).addClass('active');
+      $(".all_questions.active").removeClass('active');
+      console.log($(this).attr('data-id'));
+      $('.all_questions[data-id='+$(this).attr('data-id')+']').addClass('active');
+    })
+
 
       wow = new WOW({
         boxClass:     'wow',      // default

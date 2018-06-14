@@ -1369,7 +1369,7 @@ div.c_press-item {display: flex; align-items: center;}
     transition: .3s;
 }
 .all_questions.active .all_questions_body {
-    max-height: 200px;
+    max-height: 100%;
     padding: 15px 100px 5px 60px;
 }
 
