@@ -34,19 +34,19 @@
 				<li><a href="#">Contact</a></li>
 			</ul>
 			<ul class="h_share">
-				<li class="h_share-m"><a href="#"></a></li>
-				<li class="h_share-b"><a href="#"></a></li>
-				<li class="h_share-tg"><a href="#"></a></li>
-				<li class="h_share-tw"><a href="#"></a></li>
+				<li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
+				<li class="h_share-b"><a href="https://bitcointalk.org/index.php?topic=2817270" target="_blank"></a></li>
+				<li class="h_share-tg"><a href="https://t.me/icoATF" target="_blank"></a></li>
+				<li class="h_share-tw"><a href="https://twitter.com/agro_tech_farm" target="_blank"></a></li>
 			</ul>
 		<a href="/home/" target="_blank"><div class="h_signin">Sign In</div></a>
 			<ul id="main_nav">
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
 	                <ul class="h_share">
-	                    <li class="h_share-m"><a href="#"></a></li>
-						<li class="h_share-b"><a href="#"></a></li>
-						<li class="h_share-tg"><a href="#"></a></li>
-						<li class="h_share-tw"><a href="#"></a></li>
+	                    <li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
+						<li class="h_share-b"><a href="https://bitcointalk.org/index.php?topic=2817270" target="_blank"></a></li>
+						<li class="h_share-tg"><a href="https://t.me/icoATF" target="_blank"></a></li>
+						<li class="h_share-tw"><a href="https://twitter.com/agro_tech_farm" target="_blank"></a></li>
 	                </ul>
 	            </li>
         	</ul>
@@ -60,10 +60,10 @@
 						<li><a href="#">Contact</a></li>
 					</ul>
 	                <ul class="h_share">
-	                    <li class="h_share-m"><a href="#"></a></li>
-						<li class="h_share-b"><a href="#"></a></li>
-						<li class="h_share-tg"><a href="#"></a></li>
-						<li class="h_share-tw"><a href="#"></a></li>
+	                    <li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
+						<li class="h_share-b"><a href="https://bitcointalk.org/index.php?topic=2817270" target="_blank"></a></li>
+						<li class="h_share-tg"><a href="https://t.me/icoATF" target="_blank"></a></li>
+						<li class="h_share-tw"><a href="https://twitter.com/agro_tech_farm" target="_blank"></a></li>
 	                </ul>
 	            </li>
         	</ul>
@@ -111,8 +111,8 @@
 						<p><b>10.000</b> ETH</p>
 					</div>
 					<div class="progressbar">
-						<p>202.02 ETH</p>
-						<p>Current bonus 20%</p>
+						<p><?=file_get_contents('token.txt');?> ETH</p>
+						<p>Current bonus 10%</p>
 					</div>
 					<div class="b2-txt sec">
 						<p>Start</p>
@@ -1592,8 +1592,8 @@
 	<div class="m_inb">
 		<div class="c_head wow slideInDown animated">So what now?</div>
 		<div class="c_what-link">
-			<a href="#" class="c_what-btn">I`m ready to buy!</a>
-			<a href="#" class="c_what-btn">I have some questions</a>
+			<a href="/home/" target="_blank" class="c_what-btn">I`m ready to buy!</a>
+			<a href="https://t.me/icoATF" target="_blank" class="c_what-btn">I have some questions</a>
 		</div>
 	</div>
 </div><!-- .content -->
