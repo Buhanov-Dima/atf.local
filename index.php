@@ -28,8 +28,9 @@
 		<nav class="h_box">
 			<ul class="h_nav">
 				<li><a id="d-none-lg" href="#">Whitepapper</a></li>
-				<li><a href="#">Products</a></li>
+				<li><a href="#">Solutions</a></li>
 				<li><a href="#">Roadmap</a></li>
+				<li><a href="#">Team</a></li>
 				<li><a href="#">FAQ</a></li>
 				<li><a href="#">Contact</a></li>
 			</ul>
@@ -54,8 +55,9 @@
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
 					<ul class="h_nav">
 						<li><a id="d-none-lg" href="#">Whitepapper</a></li>
-						<li><a href="#">Products</a></li>
+						<li><a href="#">Solutions</a></li>
 						<li><a href="#">Roadmap</a></li>
+						<li><a href="#">Team</a></li>
 						<li><a href="#">FAQ</a></li>
 						<li><a href="#">Contact</a></li>
 					</ul>
@@ -854,25 +856,25 @@
 			</div>
 		</div>
 		<div class="c_document-list">
-			<a href="#" class="c_document-item">
+			<a href="/docs/wp_atf.pdf" class="c_document-item" target="_blank">
 				<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
 				<span class="c_document-item__title">White Paper</span>
 				<span class="c_document-item__lang">EN FR IT RU VI KR DE NL</span>
 			</a>
 
-			<a href="#" class="c_document-item">
+			<a href="/docs/one-pager-en.pdf" class="c_document-item" target="_blank">
 				<span class="c_document-item__thumb"><img src="./img/bg-doc-one-pager.jpg" alt="One Pager"></span>
 				<span class="c_document-item__title">One Pager</span>
 				<span class="c_document-item__lang">EN</span>
 			</a>
 
-			<a href="#" class="c_document-item">
+			<a href="/docs/terms_atf.pdf" class="c_document-item" target="_blank">
 				<span class="c_document-item__thumb"><img src="./img/bg-doc-terms.jpg" alt="Terms and Conditions"></span>
 				<span class="c_document-item__title">Terms and Conditions</span>
 				<span class="c_document-item__lang">EN</span>
 			</a>
 
-			<a href="#" class="c_document-item">
+			<a href="/docs/privacy_atf.pdf" class="c_document-item" target="_blank">
 				<span class="c_document-item__thumb"><img src="./img/bg-doc-pp.jpg" alt="Privacy Policy"></span>
 				<span class="c_document-item__title">Privacy Policy</span>
 				<span class="c_document-item__lang">EN</span>
@@ -1351,8 +1353,10 @@
 
 <div class="m_box c_sales">
 	<div class="m_inb">
+		<!--
 		<div class="c_head wow slideInDown animated">Sales plans</div>
 		<div class="c_desc wow slideInUp animated">Market valuation</div>
+		-->
 		<div class="slaider-c_sales-list owl-carousel">
 			<div class="c_video c_sales-video">
 				<a data-fancybox href="https://www.youtube.com/watch?v=d0-Jp1pqHpg">
