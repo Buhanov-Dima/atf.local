@@ -299,6 +299,7 @@
     margin: 0 15px;
     text-transform: uppercase;
 }
+.mg-t-2 {margin-top: 2em;}
 .mg-t-3 {margin-top: 3em;}
 .mg-t-5 {margin-top: 5em;}
 .c_faq-btn {text-decoration: none;}
@@ -517,7 +518,7 @@
 }
 .h_desc.act-new {
     opacity: 1;
-    top: 60px;
+    top: 90px;
 }
 
 .main-h1-b1 {

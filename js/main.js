@@ -303,9 +303,9 @@ $(document).ready(function(){
 
     function updater(d, h, m, s) {
       // День сброса - 27 сентября 2015 года (и далее каждые три дня)
-      var baseTime = new Date(2018, 24, 12);
+      var baseTime = new Date(2019, 80, 45);
       // Период сброса — 3 дня
-      var period = 12*24*60*60*900;
+      var period = 12*24*60*60*1000;
 
     function update() {
         var cur = new Date();
@@ -398,8 +398,8 @@ $(window).bind('scroll',function(e){
 function parallaxScroll(){
     var scrolled = $(window).scrollTop();
     $('.h_desc').css('top',(90-(scrolled*.15))+'px');
-    $('.main-h1-b1').css('top',(80+(scrolled*.135))+'px');
-    $('.header-bg').css('top',(100-(scrolled*.10))+'px');
+    $('.main-h1-b1').css('top',(70-(scrolled*.35))+'px');
+    $('.header-bg').css('top',(100-(scrolled-.555))+'px');
     $('.bg-header').css('top',(0+(scrolled*.525))+'px');
 };
 

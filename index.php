@@ -108,9 +108,8 @@
 				<div class="main-b2">
 					<div class="b2-txt">
 						<p><b>0</b> ETH</p>
-						<p><b>500</b> ETH</p>
-						<p><b>$1.3</b> Mio</p>
-						<p><b>10.000</b> ETH</p>
+						<p><b>1600</b> Mio</p>
+						<p><b>40.000</b> ETH</p>
 					</div>
 					<div class="progressbar">
 						<p><?=file_get_contents('token.txt');?> ETH</p>
@@ -118,7 +117,6 @@
 					</div>
 					<div class="b2-txt sec">
 						<p>Start</p>
-						<p>Presale target</p>
 						<p>Softcap</p>
 						<p>Hardcap</p>
 					</div>
@@ -223,7 +221,7 @@
 		<div class="c_problems-box">
 			<div class="c_video c_problems-video">
 				<a data-fancybox href="https://youtu.be/BVgikftbQCY">
-					<img src="./img/bg-video.jpg" alt="video">
+					<img src="/img/screen.jpg" alt="video">
 					<span class="c_video-btn wow fadeIn zoomIn animated"></span>
 				</a>
 			</div>
@@ -237,12 +235,8 @@
 					<li>a lot of workforce required to produce;</li>
 					<li>dependency on the season;</li>
 					<li>the widely spread use of pesticides.</li>
-					<li>
-						<ul>
-							<li>As a result, fresh organic vegetables and greens are expensive and sometimes even inaccessible for end consumers.</li>
-						</ul>
-					</li>
 				</ul>
+				<div class="c_problems-info__head mg-t-2">As a result, fresh organic vegetables and greens are expensive and sometimes even inaccessible for end consumers.</div>
 			</div>
 		</div>
 	</div>
@@ -766,7 +760,7 @@
 		<div class="c_head wow slideInDown animated">ATF tokens emission structure</div>
 		<div class="c_desc wow slideInUp animated">Tokens are created with an ERC20 token smart contract. Tokens will be minted only on purchase.</div>
 		<div class="c_structure-box">
-			<!--<div class="c_structure-info c_structure-info__left">
+			<div class="c_structure-info c_structure-info__left">
 				<div class="c_structure-info__head">Token Sale Timeline and Token Details</div>
 				<p>The pre-ICO campaign will start on February 16, 2018 and will last until May 20, 2018.</p>
 				<ul>
@@ -781,30 +775,7 @@
 					<li>The maximum number of tokens for the ICO is limited to a Hard Cap of maximum 20 000 ETH.</li>
 					<li>We will refund the contributed money in the main token sale (ICO) if we do not reach the Soft Cap of minimum $1,300,000. Since it would mean that the interest industry is low and also the gathered capital would be not enough.</li>
 				</ul>
-			</div>-->
-			<div class="c_structure-info c_structure-info__left">
-				<p>Token value</p>
-				<ul>
-					<li>ATF tokens will allow for the AgroTechFarm product price discount up to 20%. When purchasing the product you can get an up to 20% discount by paying no less than 60% of its price in fiats (conventional currency, i.e. dollar, euro, etc.) and up to 20% in ATF tokens. This discount is not cumulative with any other discount. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase. </li>
-					<li>ATF tokens allow you to get a 50% discount in maintenance and supplies which include seeds, nutrients, hardware accessories, and the AgroTechFarm PRO app. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase. </li>
-					<li>ATF tokens will be listed on the leading cryptocurrency exchanges. The details will be announced shortly after the completion of the ICO.</li>
-					<li>We will be buying ATF tokens back from exchanges once the devices are launched on the market.</li>
-				</ul>
-			</div>
-			<div class="c_structure-graf"></div>
-			<div class="c_structure-info c_structure-info__right">
-				<p>Token allocation</p>
-				<ul>
-					<li>65% - 3,250,000 For sale</li>
-					<li>10% - 500,000 Reserve</li>
-					<li>7% - 350,000 Marketing</li>
-					<li>6% - 300,000 Team</li>
-					<li>5% - 250,000 Referral program</li>
-					<li>3% - 150,000 Advisors</li>
-					<li>2% - 100,000 Partners</li>
-					<li>2% - 100,000 Bounty</li>
-				</ul>
-			</div>
+			</div>			
 		</div>
 		<div class="c_structure-list">
 			<p class="check-token-1">65% for sale</p>
