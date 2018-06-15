@@ -88,7 +88,7 @@
 		<!-- wrap-main-block -->
 			<div class="wrap-main-block">
 				<div class="main-b1">
-					<h4>Before ICO Start - 16.02.2018</h4>
+					<h4>Before ICO Ends - 16.02.2018</h4>
 					<div id="defaultCountdown"></div>
 					<a class="c_faq-btn mg-t-3" href="/home/" target="_blank">Buy ATF tokens now</a>
 					<div class="wp_ref_op">
@@ -131,12 +131,30 @@
 					</div>
 				</div>
 				<div class="widgets">
-					<a href="https://icoholder.com/en/agrotechfarm-ico-17891" target="_blank">
+					<a href="https://www.trackico.io/ico/agrotechfarm/" target="_blank">
 						<div class="ratings">
-							<img src="/img/icons/list_icoholder.png" alt="">
+							<img src="/img/icons/list_trackico.png" alt="">
 							<div class="rat-1">
-								<p>4.1</p>
-								<img src="/img/icons/list_4stars.png" alt="">
+								<p>5.0</p>
+								<img src="/img/icons/list_5stars.png" alt="">
+							</div>
+						</div>
+					</a>
+					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
+						<div class="ratings">
+							<img src="/img/icons/list_foundico.png" alt="">
+							<div class="rat-1">
+								<p>9.3</p>
+								<img src="/img/icons/list_45stars.png" alt="">
+							</div>
+						</div>
+					</a>
+					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
+						<div class="ratings">
+							<img src="/img/icons/list_icocapture.png" alt="">
+							<div class="rat-1">
+								<p>4.6</p>
+								<img src="/img/icons/list_45stars.png" alt="">
 							</div>
 						</div>
 					</a>
@@ -154,39 +172,20 @@
 							<img src="/img/icons/list_icomarks.png" alt="">
 							<div class="rat-1">
 								<p>8.7</p>
-								<img src="/img/icons/list_4stars.png" alt="">
+								<img src="/img/icons/list_45stars.png" alt="">
 							</div>
 						</div>
 					</a>
-					<a href="https://www.trackico.io/ico/agrotechfarm/" target="_blank">
+					<a href="https://icoholder.com/en/agrotechfarm-ico-17891" target="_blank">
 						<div class="ratings">
-							<img src="/img/icons/list_trackico.png" alt="">
+							<img src="/img/icons/list_icoholder.png" alt="">
 							<div class="rat-1">
-								<p>5.0</p>
-								<img src="/img/icons/list_4stars.png" alt="">
-							</div>
-						</div>
-					</a>
-					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
-						<div class="ratings">
-							<img src="/img/icons/list_foundico.png" alt="">
-							<div class="rat-1">
-								<p>9.3</p>
-								<img src="/img/icons/list_4stars.png" alt="">
-							</div>
-						</div>
-					</a>
-					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
-						<div class="ratings">
-							<img src="/img/icons/list_icocapture.png" alt="">
-							<div class="rat-1">
-								<p>4.6</p>
+								<p>4.1</p>
 								<img src="/img/icons/list_4stars.png" alt="">
 							</div>
 						</div>
 					</a>
 				</div>
-				<div></div>
 			</div>
 		<!-- wrap-main-block -->
 		</div>
@@ -691,7 +690,7 @@
 
 <div class="m_box c_why">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown">Token value</div>
+		<div class="c_head wow slideInDown">Token value (WHY INVEST IN THE ICO?)</div>
 		<div class="c_why-list">
 			
 			<div class="c_why-item">
@@ -1406,13 +1405,13 @@
 </div><!-- .content -->
 
 
-<div class="m_box c_sales">
-	<div class="m_inb">
+<!--<div class="m_box c_sales">
+	<div class="m_inb"> -->
 		<!--
 		<div class="c_head wow slideInDown animated">Sales plans</div>
 		<div class="c_desc wow slideInUp animated">Market valuation</div>
 		-->
-		<div class="slaider-c_sales-list owl-carousel">
+<!--		<div class="slaider-c_sales-list owl-carousel">
 			<div class="c_video c_sales-video">
 				<a data-fancybox href="https://www.youtube.com/watch?v=d0-Jp1pqHpg">
 					<img src="./img/bg-sales-video.jpg" alt="sales video">
@@ -1465,7 +1464,7 @@
 			</div>
 		</div>
 	</div>
-</div><!-- .content -->
+</div>--> <!-- .content -->
 
 
 
@@ -1675,11 +1674,11 @@
 		
 		<div class="f_mark">
 			<div class="f_head">Contact </div>
-			<div class="f_mark-info">For invest<br>ico@agrotechfarm.io<br>For marketing & partnership<br>marketing@agrotechfarm.io</div>
+			<div class="f_mark-info">For invest<br><a href="mailto:ico@agrotechfarm.io">ico@agrotechfarm.io</a><br>For marketing & partnership<br><a href="mailto:marketing@agrotechfarm.io">marketing@agrotechfarm.io</a></div>
 		</div>
 		<div class="f_adress">
 			<div class="f_head">Legal address</div>
-			<div class="f_adress-info">What is an organic product? What is an organic product?</div>
+			<div class="f_adress-info">22 Leoforos Makariou III / Makaria Center / Larnaca 6016 Republic Cyprus</div>
 		</div>
 	</div>
 	<div class="m_inb f_copy">© 2018 Copyright. All rights reserved</div>
