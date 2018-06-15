@@ -82,7 +82,7 @@
 		
 	</div>
 	<div class="m_inb h_middle">
-		<h1 class="main-h1-b1">THE PLANET’S ORGANIC FUTURE BEGINS IN AUGUST. BE PART OF IT NOW.</h1>
+		<h1 class="main-h1-b1">THE PLANET’S ORGANIC FUTURE BEGINS. BE PART OF IT NOW.</h1>
 		<div class="h_desc">Using blockchain, we will guarantee the organic origin of food grown with AgroTechFarm equipment.</div>
 		<div class="h_graf">
 		<!-- wrap-main-block -->
@@ -132,19 +132,58 @@
 				</div>
 				<div class="widgets">
 					<a href="https://icoholder.com/en/agrotechfarm-ico-17891" target="_blank">
-						<img src="/img/holder.png" alt="">
+						<div class="ratings">
+							<img src="/img/icons/list_icoholder.png" alt="">
+							<div class="rat-1">
+								<p>4.1</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
 					</a>
 					<a href="https://icobench.com/ico/agrotechfarm" target="_blank">
-						<img src="/img/icorated.png" alt="">
+						<div class="ratings">
+							<img src="/img/icons/list_icobench.png" alt="">
+							<div class="rat-1">
+								<p>4.0</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
 					</a>
 					<a href="https://icomarks.com/ico/agrotechfarm" target="_blank">
-						<img src="/img/icomark.png" alt="">
+						<div class="ratings">
+							<img src="/img/icons/list_icomarks.png" alt="">
+							<div class="rat-1">
+								<p>8.7</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
 					</a>
 					<a href="https://www.trackico.io/ico/agrotechfarm/" target="_blank">
-						<img src="/img/trackico.png" alt="">
+						<div class="ratings">
+							<img src="/img/icons/list_trackico.png" alt="">
+							<div class="rat-1">
+								<p>5.0</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
 					</a>
 					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
-						<img src="/img/foundico.png" alt="">
+						<div class="ratings">
+							<img src="/img/icons/list_foundico.png" alt="">
+							<div class="rat-1">
+								<p>9.3</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
+					</a>
+					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
+						<div class="ratings">
+							<img src="/img/icons/list_icocapture.png" alt="">
+							<div class="rat-1">
+								<p>4.6</p>
+								<img src="/img/icons/list_4stars.png" alt="">
+							</div>
+						</div>
 					</a>
 				</div>
 				<div></div>
@@ -162,7 +201,7 @@
 
 <div class="m_box c_problems">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown animated">What makes AgroTechFarm unique</div>
+		<div class="c_head wow slideInDown animated">Key features with AgroTechFarm</div>
 		<div class="wrap-icons">
 			<div class="icon">
 				<div class="img-icons first-child">
@@ -238,8 +277,8 @@
 
 <div class="m_box c_solution">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown animated">Where can an AgrotechFarm cabinet be set up</div>
-		<div class="zag wow slideInUp animated">HOME APPLIANCE</div>
+		<div class="c_head wow slideInDown animated">Innovative solution for home, agriculture, business, medicine, science, and education</div>
+		<div class="zag wow slideInUp animated">ATF Basic</div>
 		<div class="c_solution-list">
 			<!-- <div class="slaider-solutions owl-carousel">
 				<div class="c_solution-item c_solution-item__house">
@@ -269,32 +308,32 @@
 			</div>
 			<div class="d-non-md">
 				<div class="c_solution-item c_solution-item__house">
-					<div class="c_solution-item__title">Installation in each house</div>
-					<div class="c_solution-item__txt">the design allows you to install houses, in an appartment, in a restaurant. At the same time, not requiring care and knowledge of agronomy.</div>
+					<div class="c_solution-item__title">Home</div>
+					<div class="c_solution-item__txt">private households to be always provided with fresh organic food without any specific knowledges or skills because ATF is as easy-to-use as a coffee machine.</div>
 				</div>
 				<div class="c_solution-item c_solution-item__shop">
-					<div class="c_solution-item__title">Always fresh products  in small shops.</div>
-					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+					<div class="c_solution-item__title">BUSINESS</div>
+					<div class="c_solution-item__txt">small and midsize businesses such as hotels, restaurants, and groceries to provide their customers with fresh organic vegetables, berries, and greens.</div>
 				</div>
 				<div class="c_solution-item c_solution-item__apart">
-					<div class="c_solution-item__title">Installation in an apartment  building for all residents</div>
-					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+					<div class="c_solution-item__title">Education </div>
+					<div class="c_solution-item__txt">educational and scientific institutions to conduct various experiments and trials using the PRO mode which is a great way to learn, teach, and research agriculture.</div>
 				</div>
 				<div class="w-100">
-					<h3 class="zag">INDUSTRIAL EQUIPMENT</h3>
+					<h3 class="zag">ATF Enterprise</h3>
 					<img src="/img/bg-what-indust.png" alt="">
 				</div>
 				<div class="c_solution-item c_solution-item__remote">
-					<div class="c_solution-item__title">Installation in remote regions</div>
-					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+					<div class="c_solution-item__title">Mass production</div>
+					<div class="c_solution-item__txt">food retail supply chains and agricultural companies.</div>
 				</div>
 				<div class="c_solution-item c_solution-item__cultiv">
-					<div class="c_solution-item__title">Agro vertical cultivation</div>
-					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+					<div class="c_solution-item__title">Property developers</div>
+					<div class="c_solution-item__txt">property development companies which can achieve a great competitive advantage by introducing ATF Enterprise into the infrastructure of their office buildings and residential compounds;</div>
 				</div>
 				<div class="c_solution-item c_solution-item__cultiv">
-					<div class="c_solution-item__title">Agro vertical cultivation</div>
-					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+					<div class="c_solution-item__title">Extreme climate</div>
+					<div class="c_solution-item__txt">global humanitarian organizations, governments, and programs which now struggle to provide fresh organic food to people living in extreme climate conditions.</div>
 				</div>
 			</div>
 		</div>
@@ -388,11 +427,9 @@
 
 <div id="b-2" class="m_box c_tech">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown animated">Technical solution</div>
+		<div class="c_head wow slideInDown animated">Technology overview</div>
 		<div class="c_txt c_desc">
-			<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
-			<p>Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? </p>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. </p>
+			<p>The ATF equipment combines hydroponics (water), aeroponics (wind), and controlled light to imitate the climatic conditions perfect for the growth of a certain plant variety, such as tomatoes, cucumbers, rucola, strawberries, cannabis, and more. There are only two resources required to have fresh organic food all year round with ATF: water and electricity. By leveraging the combination of technologies, ATF achieves a 30% quicker growth without the use chemicals or other unhealthy practices. The process is fully automated: you simply add seeds (like you fill coffee beans in a coffee machine), nutrient solutions (similarly to adding laundry liquid in a washing machine), and get the crops in when the time comes. The technology is designed for private, commercial, and industrial uses.</p>
 		</div>
 		<!--<div class="c_tech-box">
 			<div class="c_video c_tech-video">
@@ -654,27 +691,27 @@
 
 <div class="m_box c_why">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown">Why invest in the ICO?</div>
+		<div class="c_head wow slideInDown">Token value</div>
 		<div class="c_why-list">
 			
 			<div class="c_why-item">
-				<div class="c_why-item__title">Working product</div>
-				<div class="c_why-item__desc">We have 2 patents and and our machines are thoroughly tested. <br><br>The ATF Home growers are just waiting to start production.</div>
+				<div class="c_why-item__title">Discount on product</div>
+				<div class="c_why-item__desc">ATF tokens will allow for the AgroTechFarm product price discount up to 20%. When purchasing the product you can get an up to 20% discount by paying no less than 60% of its price in fiats (conventional currency, i.e. dollar, euro, etc.) and up to 20% in ATF tokens. This discount is not cumulative with any other discount. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase.</div>
 			</div>
 
 			<div class="c_why-item">
-				<div class="c_why-item__title">Discount</div>
-				<div class="c_why-item__desc">Token gives a sale for the ATF equipment with 20% discount and 50% discount on consumables: seedlings, solution, carbon filter, user application on the PROFI level.</div>
+				<div class="c_why-item__title">Discount in maintenance</div>
+				<div class="c_why-item__desc">ATF tokens allow you to get a 50% discount in maintenance and supplies which include seeds, nutrients, hardware accessories, and the AgroTechFarm PRO app. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase.</div>
 			</div>
 
 			<div class="c_why-item">
-				<div class="c_why-item__title">Token profit</div>
-				<div class="c_why-item__desc">Tokens will be placed on the cryptocurrency exchange.</div>
+				<div class="c_why-item__title">Listing</div>
+				<div class="c_why-item__desc">ATF tokens will be listed on the leading cryptocurrency exchanges. The details will be announced shortly after the completion of the ICO.</div>
 			</div>
 
 			<div class="c_why-item">
-				<div class="c_why-item__title">Ecosystem</div>
-				<div class="c_why-item__desc">Purchase and sale of grown fresh food products in our internal user system.</div>
+				<div class="c_why-item__title">Buy back</div>
+				<div class="c_why-item__desc">We will be buying ATF tokens back from exchanges once the devices are launched on the market.</div>
 			</div>
 
 		</div>
@@ -955,6 +992,26 @@
 						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in"></a>
 					</div>
 				</div>
+
+				<div id="last-man" class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Mihail-Chistapolov.jpg" alt=""></div>
+					<div class="c_team-item__name">Mikhail Chistopolov</div>
+					<div class="c_team-item__posit">CSO</div>
+					<div class="c_team-item__desc">Mikhail has been doing international PR and marketing since 2013. As a CSO, he works to develop the strategy, perfect the ATF's global message, and further improve the brand's positioning.</div>
+					<div class="c_team-item__link">
+						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in"></a>
+					</div>
+				</div>
+
+				<div id="last-man" class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Natalia-Savinova.PNG" alt=""></div>
+					<div class="c_team-item__name">Natalia Savinova</div>
+					<div class="c_team-item__posit">Referent</div>
+					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
+					<div class="c_team-item__link">
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__in"></a>
+					</div>
+				</div>
 			</div>
 
 			<div class="slaider-team-list-2 owl-carousel">
@@ -1052,6 +1109,26 @@
 						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in"></a>
 					</div>
 				</div>
+
+				<div id="last-man" class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Mihail-Chistapolov.jpg" alt=""></div>
+					<div class="c_team-item__name">Mikhail Chistopolov</div>
+					<div class="c_team-item__posit">CSO</div>
+					<div class="c_team-item__desc">Mikhail has been doing international PR and marketing since 2013. As a CSO, he works to develop the strategy, perfect the ATF's global message, and further improve the brand's positioning.</div>
+					<div class="c_team-item__link">
+						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in"></a>
+					</div>
+				</div>
+
+				<div id="last-man" class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Natalia-Savinova.PNG" alt=""></div>
+					<div class="c_team-item__name">Natalia Savinova</div>
+					<div class="c_team-item__posit">Referent</div>
+					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
+					<div class="c_team-item__link">
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__in"></a>
+					</div>
+				</div>
 			</div>
 	</div>
 </div><!-- .content -->
@@ -1063,6 +1140,18 @@
 		<div class="c_head wow slideInDown animated">Advisors</div>
 		
 			<div class="open-slaider">
+				<div class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Danil-Morozov.jpeg" alt=""></div>
+					<div class="c_team-item__name">Daniil Morozov</div>
+					<div class="c_team-item__posit">PhD in Economics</div>
+					<div class="c_team-item__desc">Over 10 years in financial consulting, winner of "100 best products of Russia", "Financial Russia 2007", "Financial Russia 2008". <br>Business Angel, 15 startups in the portfolio (such areas as construction, financial consulting, real estate, IT, high-tech). <br>Co-Founder of Node - a revolutionary high-tech start-up, which disrupts a market niche of wireless transmission devices for both private and commercial use. Node’s innovative developments, research activities in the field of storage and transmission of electricity, allow to offer solutions that are characterized by high quality and efficiency of use.<br>Expert on ICOBench (TOP 10), Prople of blockchain on ICOBench (TOP 50), active member of the crypto community, has extensive network of contacts in this field. Regions of distribution CIS and Baltic countries (Estonia, Latvia, Lithuania, Russia, Belarus, Kazakhstan, Armenia, Ukraine, Georgia, Kyrgyzstan, Uzbekistan) total population over 300 million people.</div>
+					<div class="c_team-item__link">
+						<a href="https://facebook.com/dmoroz0v" class="c_team-item__fb"></a>
+						<a href="https://www.linkedin.com/in/greg-limon-835a23b9/" class="c_team-item__in"></a>
+					</div>
+				</div>
+
+
 				<div class="c_team-item">
 					<div class="c_team-item__thumb"><img src="./img/Greg-Limon.jpg" alt=""></div>
 					<div class="c_team-item__name">Greg Limon</div>
@@ -1130,7 +1219,7 @@
 					</div>
 				</div>
 
-				<div class="c_team-item">
+				<div id="last-man" class="c_team-item">
 					<div class="c_team-item__thumb"><img src="./img/aleksandra-liashkova.jpg" alt=""></div>
 					<div class="c_team-item__name">Aleksandra Liashkova</div>
 					<div class="c_team-item__posit">ICO Advisor | Bounty Campaigns | Marketing | Branding&Web Development</div>
@@ -1583,13 +1672,14 @@
 				<li><a href="#b-6">Contact</a></li>
 			</ul>
 		</div>
+		
+		<div class="f_mark">
+			<div class="f_head">Contact </div>
+			<div class="f_mark-info">For invest<br>ico@agrotechfarm.io<br>For marketing & partnership<br>marketing@agrotechfarm.io</div>
+		</div>
 		<div class="f_adress">
 			<div class="f_head">Legal address</div>
 			<div class="f_adress-info">What is an organic product? What is an organic product?</div>
-		</div>
-		<div class="f_mark">
-			<div class="f_head">Marketing</div>
-			<div class="f_mark-info">What is an organic product?</div>
 		</div>
 	</div>
 	<div class="m_inb f_copy">© 2018 Copyright. All rights reserved</div>
