@@ -88,7 +88,7 @@
 		<!-- wrap-main-block -->
 			<div class="wrap-main-block">
 				<div class="main-b1">
-					<h4>Before ICO Ends - 16.02.2018</h4>
+					<h4>ICO Ends - 31.07.2018</h4>
 					<div id="defaultCountdown"></div>
 					<a class="c_faq-btn mg-t-3" href="/home/" target="_blank">Buy ATF tokens now</a>
 					<div class="wp_ref_op">
@@ -1864,6 +1864,7 @@
 		<script src="js/particle.js"></script>
 		<script src="js/wow.min.js"></script>
 		<script src="js/main.js"></script>
+		
 
 </body>
 </html>
