@@ -1564,26 +1564,15 @@
 <footer class="m_box footer">
 	<div class="m_inb f_top">
 		<div class="h_logo f_logo"></div>
-					<ul class="h_nav">
-						<li><a id="d-none-lg">Whitepapper</a></li>
-						<li><a href="#b-2">Solutions</a></li>
-						<li><a href="#b-3">Roadmap</a></li>
-						<li><a href="#b-4">Team</a></li>
-						<li><a href="#b-5">FAQ</a></li>
-						<li><a href="#b-6">Contact</a></li>
-					</ul>
-				<div class="f_nav">
+			<div class="f_nav">
 			<div class="f_head">Information</div>
 			<ul>
-				<li><a href="#">About</a></li>
-				<li><a href="#">How it works</a></li>
-				<li><a href="#">What is an organic product?</a></li>
-				<li><a href="#">Whitepapper</a></li>
-				<li><a href="#">Business Plan</a></li>
-				<li><a href="#">Roadmap</a></li>
-				<li><a href="#">FAQ</a></li>
-				<li><a href="#">Sing In / Register</a></li>
-				<li><a href="#">Contact Us</a></li>
+				<li><a id="d-none-lg">Whitepapper</a></li>
+				<li><a href="#b-2">Solutions</a></li>
+				<li><a href="#b-3">Roadmap</a></li>
+				<li><a href="#b-4">Team</a></li>
+				<li><a href="#b-5">FAQ</a></li>
+				<li><a href="#b-6">Contact</a></li>
 			</ul>
 		</div>
 		<div class="f_adress">
