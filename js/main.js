@@ -294,10 +294,11 @@ $(document).ready(function(){
       });
       wow.init();
 
-      $("body").on('click', '.goto', function(e){
-        var scrollTo = $(this).data('scroll');
-        $('html,body').stop().animate({ scrollTop: $('#'+scrollTo).offset().top }, 1000);
-        e.preventDefault();
+      $('a[href^="#"]').click(function(){
+        var el = $(this).attr('href');
+        $('html,body').animate({
+            scrollTop: $(el).offset().top-130}, 500);
+        return false;
     });
 
 
@@ -391,7 +392,9 @@ $(document).ready(function(){
     
 
     
- 
+ 	var austDay = new Date(2018, 6-1, 25);
+    austDay = new Date(2018, 7-1, 31);
+    $('#defaultCountdown').countdown({until: austDay});
     
 });
 
@@ -406,10 +409,4 @@ function parallaxScroll(){
     $('.header-bg').css('top',(100-(scrolled-.555))+'px');
     $('.bg-header').css('top',(0+(scrolled*.525))+'px');
 };
-
-$(function () {
-    var austDay = new Date(2018, 6-1, 25);
-    austDay = new Date(2018, 7-1, 31);
-    $('#defaultCountdown').countdown({until: austDay});
-});
 
