@@ -17,7 +17,15 @@
 	<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
 	<link rel="stylesheet" href="css/style-xs.css" media="only screen and (max-width:576px)">
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112059287-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-112059287-1');
+	</script>
 </head>
 <body>
 <div class="bg-header"></div>
@@ -108,8 +116,8 @@
 				<div class="main-b2">
 					<div class="b2-txt">
 						<p><b>0</b> ETH</p>
-						<p><b>1600</b> Mio</p>
-						<p><b>40.000</b> ETH</p>
+						<p><b>1600</b> ETH</p>
+						<p style="left: 10px;"><b>40.000</b> ETH</p>
 					</div>
 					<div class="progressbar">
 						<p><?=file_get_contents('token.txt');?> ETH</p>
