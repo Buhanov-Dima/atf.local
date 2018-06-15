@@ -149,7 +149,7 @@
 							</div>
 						</div>
 					</a>
-					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
+					<a href="http://icocapture.com/details/lid/210/" target="_blank">
 						<div class="ratings">
 							<img src="/img/icons/list_icocapture.png" alt="">
 							<div class="rat-1">
