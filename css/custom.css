@@ -1622,3 +1622,10 @@ div.c_press-item {display: flex; align-items: center;}
 .rat-1 {display: flex; justify-content: space-around; align-items: center;}
 .widgets a{text-decoration: none;}
 .rat-1 p{margin-right: 7px;}
+.wrap-popup-2 .c_faq-btn {margin-left: 0; margin-top: 30px;}
+.wrap-popup-2 p{
+    color: #000;
+}
+.wrap-popup-2 a {
+    color: blue;
+}

@@ -93,7 +93,7 @@
 					<a class="c_faq-btn mg-t-3" href="/home/" target="_blank">Buy ATF tokens now</a>
 					<div class="wp_ref_op">
 						<a href="/docs/wp_atf.pdf" target="_blank">Whitepaper</a>
-						<a href="#">Referal program</a>
+						<a data-fancybox data-animation-duration="700" data-src="#popup-2" href="javascript:;">Referal program</a>
 						<a href="/docs/one-pager-en.pdf" target="_blank">One pager</a>
 					</div>
 				</div>
@@ -1685,6 +1685,20 @@
 </footer><!-- .footer -->
 </div>
 <!-- popup -->
+
+	<div class="card">
+      <div class="card-body">
+        <div style="display: none;" id="popup-2" class="animated-modal">
+        	<div class="wrap-popup-2">
+        		<h2>What is this technology about?</h2>
+        		<p>Register on the site agrotechfarm.io to get your referral link, which you can post on your website, blogs, social networks or share with your friends.<br>Your referral link is available in your personal account at: <a href="https://www.agrotechfarm.io/">agrotechfarm.io</a><br>When someone registers to buy tokens from your link, they will be linked to you and you will receive 5% of the purchased by him or her tokens during Pre-ICO and ICO.<br>ATF tokens will be credited to your ETH wallet address within 10 days after the end of ICO Agro Tech Farm.<br>The current balance of ATF referral tokens you can see in your personal account at <a href="https://www.agrotechfarm.io/">agrotechfarm.io</a><br>To earn with the help of the referral program please follow these steps:<br>1. Register on agrotechfarm.io<br>2. Click on your personal account.<br>3. Specify your ETH wallet address.<br>4. After that you will get you referral link.<br>5. Share this link on your website, blogs, social networks or with your friends.<br>Recommendation: register in all available social networks ICO Agro Tech Farm and make reposts by adding your referral link.<br>Support: <a href="mailto:bounty@agrotechfarm.io">bounty@agrotechfarm.io</a><br>If you have problems, please contact us at Telegram: <a href="https://t.me/atfbounty">https://t.me/atfbounty</a></p>
+        		<div data-fancybox data-animation-duration="700" data-src="#animatedModal" href="javascript:;" class="c_faq-btn">All questions</div>
+        	</div>
+        </div>
+       </div>
+    </div>
+    
+
 	<div class="card">
       <div class="card-body">
         <div style="display: none;" id="animatedModal" class="animated-modal">
