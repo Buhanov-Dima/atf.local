@@ -27,6 +27,7 @@
 
 	  gtag('config', 'UA-112059287-1');
 	</script>
+	<script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46959333 = new Ya.Metrika2({ id:46959333, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ut:"noindex", ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script>
 </head>
 <body>
 <div class="bg-header"></div>
@@ -149,7 +150,7 @@
 							</div>
 						</div>
 					</a>
-					<a href="https://foundico.com/ru/ico/agrotechfarm-token.html" target="_blank">
+					<a href="http://icocapture.com/details/lid/210/" target="_blank">
 						<div class="ratings">
 							<img src="/img/icons/list_icocapture.png" alt="">
 							<div class="rat-1">
