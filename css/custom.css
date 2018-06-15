@@ -1453,14 +1453,16 @@ div.c_press-item {display: flex; align-items: center;}
     transition: .7s;
 }
 .icon:hover {
-    background-color: #ffffff;
+    background-color: #171c44;
+    color: #ffffff;
+    border-radius: 2px; 
 }
 .icon:hover .img-icons {
     margin: 5px auto;
     opacity: 0;
 }
 .icon:hover .img-icons p, .icon:hover .txt-icons p {
-    color: #000;
+    color: #ffffff;
     padding: 25px;
 }
 .icon:hover .txt-icons {
@@ -1483,7 +1485,7 @@ div.c_press-item {display: flex; align-items: center;}
     flex-wrap: wrap;
     position: relative;
     cursor: pointer;
-    height: 275px;
+    height: 325px;
     transition: .7s;
 }
 .img-icons {
@@ -1585,3 +1587,24 @@ div.c_press-item {display: flex; align-items: center;}
     padding-left: 50px;
     color: #000;
 }
+
+.countdown-section {
+    display: inline-block;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.countdown-amount {
+    font-size: 42px;
+    font-weight: bold;
+}
+.countdown-section:before {
+    content: ':';
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    font-size: 42px;
+}
+.countdown-section:first-child:before {display: none;}

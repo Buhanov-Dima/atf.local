@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.countdown.css"> 
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
@@ -34,13 +35,13 @@
 	<div class="m_inb h_top">
 		<div class="h_logo"></div>
 		<nav class="h_box">
-			<ul class="h_nav">
-				<li><a id="d-none-lg" href="#">Whitepapper</a></li>
-				<li><a href="#">Solutions</a></li>
-				<li><a href="#">Roadmap</a></li>
-				<li><a href="#">Team</a></li>
-				<li><a href="#">FAQ</a></li>
-				<li><a href="#">Contact</a></li>
+			<ul class="h_nav" id="h_nav">
+				<li><a id="d-none-lg">Whitepapper</a></li>
+				<li><a href="#b-2">Solutions</a></li>
+				<li><a href="#b-3">Roadmap</a></li>
+				<li><a href="#b-4">Team</a></li>
+				<li><a href="#b-5">FAQ</a></li>
+				<li><a href="#b-6">Contact</a></li>
 			</ul>
 			<ul class="h_share">
 				<li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
@@ -48,7 +49,7 @@
 				<li class="h_share-tg"><a href="https://t.me/icoATF" target="_blank"></a></li>
 				<li class="h_share-tw"><a href="https://twitter.com/agro_tech_farm" target="_blank"></a></li>
 			</ul>
-		<a href="/home/" target="_blank"><div class="h_signin">Sign In</div></a>
+			<a href="/home/" target="_blank"><div class="h_signin">Sign In</div></a>
 			<ul id="main_nav">
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
 	                <ul class="h_share">
@@ -61,13 +62,13 @@
         	</ul>
         	<ul id="main_nav-2">
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
-					<ul class="h_nav">
-						<li><a id="d-none-lg" href="#">Whitepapper</a></li>
-						<li><a href="#">Solutions</a></li>
-						<li><a href="#">Roadmap</a></li>
-						<li><a href="#">Team</a></li>
-						<li><a href="#">FAQ</a></li>
-						<li><a href="#">Contact</a></li>
+					<ul class="h_nav" id="h_nav">
+						<li><a id="d-none-lg">Whitepapper</a></li>
+						<li><a href="#b-2">Solutions</a></li>
+						<li><a href="#b-3">Roadmap</a></li>
+						<li><a href="#b-4">Team</a></li>
+						<li><a href="#b-5">FAQ</a></li>
+						<li><a href="#b-6">Contact</a></li>
 					</ul>
 	                <ul class="h_share">
 	                    <li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
@@ -88,24 +89,7 @@
 			<div class="wrap-main-block">
 				<div class="main-b1">
 					<h4>Before ICO Start - 16.02.2018</h4>
-					<div class="timer">
-						<div>
-							<span id="days"></span><b>:</b>
-						  	<p>Days</p>
-						</div>
-						<div>
-						  	<span id="hours"></span><b>:</b>
-						  	<p>Hours</p>
-						</div>
-						<div>
-						  	<span id="minutes"></span><b>:</b>
-						  	<p>Minutes</p>
-						</div>
-						<div>
-						  	<span id="seconds"></span>
-						  	<p>Seconds</p>
-						</div>
-					</div>
+					<div id="defaultCountdown"></div>
 					<a class="c_faq-btn mg-t-3" href="/home/" target="_blank">Buy ATF tokens now</a>
 					<div class="wp_ref_op">
 						<a href="/docs/wp_atf.pdf" target="_blank">Whitepaper</a>
@@ -178,7 +162,7 @@
 
 <div class="m_box c_problems">
 	<div class="m_inb">
-		<div class="c_head">What makes AgroTechFarm unique</div>
+		<div class="c_head wow slideInDown animated">What makes AgroTechFarm unique</div>
 		<div class="wrap-icons">
 			<div class="icon">
 				<div class="img-icons first-child">
@@ -308,6 +292,10 @@
 					<div class="c_solution-item__title">Agro vertical cultivation</div>
 					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
 				</div>
+				<div class="c_solution-item c_solution-item__cultiv">
+					<div class="c_solution-item__title">Agro vertical cultivation</div>
+					<div class="c_solution-item__txt">laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -398,7 +386,7 @@
 </div>
 -->
 
-<div class="m_box c_tech">
+<div id="b-2" class="m_box c_tech">
 	<div class="m_inb">
 		<div class="c_head wow slideInDown animated">Technical solution</div>
 		<div class="c_txt c_desc">
@@ -488,13 +476,13 @@
 
 <div class="m_box c_company">
 	<div class="m_inb">
-		<h2 class="zag-h">Company</h2>
+		<div class="c_head wow slideInDown animated">Company</div>
 		<p>AgroTechFarm ICO is a project by a well-established company. It was founded by a team of crop research, agronomics, agrochemistry, software development, engineering, management, marketing, business management, and finance specialists in 2012. From the beginning, the company focuses on the development of cutting-edge agricultural technologies. In 2014, AgroTechFarm has patented a hydroponics device and presented its prototype. 2017 saw the market launch of microgreens produced using their own unique technology. This was followed by the preliminary approval of three further patents.</p>
 		<p>The AgroTechFarm production launch is scheduled for September 2018. ICO was chosen as a funding model that will allow to quickly scale the product, ensure high speed to global market, and, finally, feed the world with fresh organic vegetables, fruits, and greens.</p>
 	</div>
 </div>
 
-<div class="bg-world">
+<div class="bg-world" id="b-3">
 	
 
 <div class="m_box c_roadmap">
@@ -863,7 +851,7 @@
 	<div class="c_document-bg"></div>
 </div><!-- .content -->
 
-<div class="bg-team-advisor-3">
+<div class="bg-team-advisor-3" id="b-4">
 <div class="bg-team-advisor-2">
 <div class="bg-team-advisor">
 
@@ -1238,7 +1226,7 @@
 </div>
 </div>
 
-<div class="bg-faq">
+<div class="bg-faq" id="b-5">
 <div class="bg-faq-2">
 
 <div class="m_box c_faq">
@@ -1544,7 +1532,7 @@
 </div>
 </div>
 
-<div class="bg-footer">
+<div class="bg-footer" id="b-6">
 
 <div class="m_box c_subs">
 	<div class="m_inb">
@@ -1584,7 +1572,15 @@
 <footer class="m_box footer">
 	<div class="m_inb f_top">
 		<div class="h_logo f_logo"></div>
-		<div class="f_nav">
+					<ul class="h_nav">
+						<li><a id="d-none-lg">Whitepapper</a></li>
+						<li><a href="#b-2">Solutions</a></li>
+						<li><a href="#b-3">Roadmap</a></li>
+						<li><a href="#b-4">Team</a></li>
+						<li><a href="#b-5">FAQ</a></li>
+						<li><a href="#b-6">Contact</a></li>
+					</ul>
+				<div class="f_nav">
 			<div class="f_head">Information</div>
 			<ul>
 				<li><a href="#">About</a></li>
@@ -1768,11 +1764,14 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="js/owl.carousel.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
-		<script src="js/viewportchecker.js"></script>
+		<script type="text/javascript" src="js/jquery.plugin.js"></script> 
+		<script type="text/javascript" src="js/jquery.countdown.js"></script>
+		<script src="js/wow.min.js"></script>
 		<script src="js/animateline.js"></script>
 		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 		<script src="js/particle.js"></script>
 		<script src="js/wow.min.js"></script>
 		<script src="js/main.js"></script>
 
-</body></html>
+</body>
+</html>
