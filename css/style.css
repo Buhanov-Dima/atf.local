@@ -558,6 +558,7 @@ input, textarea {
   height: 130px;
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 65px;
 }
 .c_solution-item__house::before {
   background-image: url('/img/bg-solution-house.png');
@@ -566,13 +567,17 @@ input, textarea {
   background-image: url('/img/bg-solution-shop.png');
 }
 .c_solution-item__apart::before {
-  background-image: url('/img/bg-solution-apart.png');
+  background-image: url('/img/icons/icon-7.png');
 }
 .c_solution-item__remote::before {
-  background-image: url('/img/bg-solution-remote.png');
+  background-image: url('/img/icons/icon-9.png');
 }
 .c_solution-item__cultiv::before {
-  background-image: url('/img/bg-solution-cultiv.png');
+  background-image: url('/img/bg-solution-apart.png');
+}
+.c_solution-item__climat::before {
+  background-image: url('/img/icons/icon-6.png');
+  background-size: 80px;
 }
 .c_solution-item__title {
   margin-bottom: 20px;

@@ -34,7 +34,7 @@
 <header class="m_box header">
 
 	<div class="m_inb h_top">
-		<div class="h_logo"></div>
+		<a href="https://agrotechfarm.io/"><div class="h_logo"></div></a>
 		<nav class="h_box">
 			<ul class="h_nav" id="h_nav">
 				<li><a id="d-none-lg">Whitepapper</a></li>
@@ -331,7 +331,7 @@
 					<div class="c_solution-item__title">Property developers</div>
 					<div class="c_solution-item__txt">property development companies which can achieve a great competitive advantage by introducing ATF Enterprise into the infrastructure of their office buildings and residential compounds;</div>
 				</div>
-				<div class="c_solution-item c_solution-item__cultiv">
+				<div class="c_solution-item c_solution-item__climat">
 					<div class="c_solution-item__title">Extreme climate</div>
 					<div class="c_solution-item__txt">global humanitarian organizations, governments, and programs which now struggle to provide fresh organic food to people living in extreme climate conditions.</div>
 				</div>
@@ -1231,6 +1231,18 @@
 			</div>
 			<div class="slaider-team-list-2 owl-carousel">
 				<div class="c_team-item">
+					<div class="c_team-item__thumb"><img src="./img/Danil-Morozov.jpeg" alt=""></div>
+					<div class="c_team-item__name">Daniil Morozov</div>
+					<div class="c_team-item__posit">PhD in Economics</div>
+					<div class="c_team-item__desc">Over 10 years in financial consulting, winner of "100 best products of Russia", "Financial Russia 2007", "Financial Russia 2008". <br>Business Angel, 15 startups in the portfolio (such areas as construction, financial consulting, real estate, IT, high-tech). <br>Co-Founder of Node - a revolutionary high-tech start-up, which disrupts a market niche of wireless transmission devices for both private and commercial use. Node’s innovative developments, research activities in the field of storage and transmission of electricity, allow to offer solutions that are characterized by high quality and efficiency of use.<br>Expert on ICOBench (TOP 10), Prople of blockchain on ICOBench (TOP 50), active member of the crypto community, has extensive network of contacts in this field. Regions of distribution CIS and Baltic countries (Estonia, Latvia, Lithuania, Russia, Belarus, Kazakhstan, Armenia, Ukraine, Georgia, Kyrgyzstan, Uzbekistan) total population over 300 million people.</div>
+					<div class="c_team-item__link">
+						<a href="https://facebook.com/dmoroz0v" class="c_team-item__fb"></a>
+						<a href="https://www.linkedin.com/in/greg-limon-835a23b9/" class="c_team-item__in"></a>
+					</div>
+				</div>
+
+
+				<div class="c_team-item">
 					<div class="c_team-item__thumb"><img src="./img/Greg-Limon.jpg" alt=""></div>
 					<div class="c_team-item__name">Greg Limon</div>
 					<div class="c_team-item__posit">FOUNDER AT CANADA CAPITAL  GROUP INC.</div>
@@ -1275,7 +1287,6 @@
 					<div class="c_team-item__posit">BUSINESS</div>
 					<div class="c_team-item__desc">Stan Milc generator of ideas, able to translate dreams into reality. With his spirit and enthusiasm, he inspires others and helps form professional teams. He is determined and never gives up. 7 years in business as a developer and entrepreneur, co-founder and investor.</div>
 					<div class="c_team-item__link">
-
 					</div>
 				</div>
 
@@ -1285,7 +1296,6 @@
 					<div class="c_team-item__posit">CMO at NagriTech International Distributors Ltd</div>
 					<div class="c_team-item__desc">Jared is an Entrepreneur with a background in marketing and finance. His expertise in creating partnerships and developing sales channels creates immense value. Jared is the CMO of NagriTech and continues to promote agriculture technology projects as his passion.</div>
 					<div class="c_team-item__link">
-
 					</div>
 				</div>
 
@@ -1299,13 +1309,13 @@
 					</div>
 				</div>
 
-				<div class="c_team-item">
+				<div id="last-man" class="c_team-item">
 					<div class="c_team-item__thumb"><img src="./img/aleksandra-liashkova.jpg" alt=""></div>
 					<div class="c_team-item__name">Aleksandra Liashkova</div>
 					<div class="c_team-item__posit">ICO Advisor | Bounty Campaigns | Marketing | Branding&Web Development</div>
 					<div class="c_team-item__desc">Master of Business Administration<br>Founder of ARTChain - an innovative ecosystem that unites artists and buyers of art from around the world<br>Crypto enthusiast - involved in the community since 2015<br>Many years of working with successful startups in marketing and sales roles has allowed me to use those experiences and apply them to blockchain technology and ICOs. Taking part in ICOBench expert panel I try to make my investment in increasing quality and credibility of coming ICOs which is crucial for all blockchain community<br>Available for consulting in carrying out marketing activities, brand development, organisation Bounty Campaigns and RoadShows<br>“The people who are crazy enough to think they can change the world are the ones who do.”</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/alexismyrr " class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/alexismyrr" class="c_team-item__in"></a>
 					</div>
 				</div>
 			</div>
@@ -1727,127 +1737,142 @@
 		  </div>
 		  <div class="all_questions" data-id="q-5">
 			<div class="all_questions_head">Who are the potential buyers of ATF?</div>
-			<div class="all_questions_body">The solution offered by AgroTechFarm is highly demanded by:
+			<div class="all_questions_body">ATF is designed for:<br>
 				<ul>
-					<li>Людей, желающих выращивать органические экологически-чистые овощи или марихуану для личного употребления. </li>
-					<li>Компаниям по селекции и производству марихуаны.</li>
-					<li>Девелоперам для размещения оборудование в жилых комплексах.</li>
-					<li>Школам и институтам для проведения образовательного процесса или исследований.</li>
-					<li>Фермерам, живущим в мегаполисах, для создания своего собственного бизнеса.</li>
-					<li>Крупных агрохолдингов и производителей растительной продукции. </li>
-					<li>Крупных продуктовых сетевых компаний для обеспечения собственных магазинов.</li>
+					<li>the industrial-scale production by agricultural companies; </li>
+					<li>property development companies which can achieve a great competitive advantage by introducing ATF Enterprise into the infrastructure of their office buildings and residential compounds;</li>
+					<li>food retail chains and supermarkets to supply themselves with green products on-site;</li>
+					<li>global humanitarian organizations, governments, and programs which now struggle to provide fresh organic food to people living in extreme climate conditions.</li>
+					<li>small and midsize businesses such as hotels, restaurants, and groceries to provide their customers with fresh organic vegetables, berries, and greens;</li>
+					<li>coffee shops, medical cannabis dispensaries, and hospitals that employ cannabis treatment to get the high quality hemp right where they are;</li>
+					<li>educational and scientific institutions to conduct various experiments and trials using the PRO mode which is a great way to learn, teach, and research agriculture;</li>
+					<li>private households to be always provided with fresh organic food without any specific knowledges or skills because ATF is as easy-to-use as a coffee machine.</li>
 				</ul>
 			</div>
 		  </div>
 		  <div class="all_questions" data-id="q-6">
-			<div class="all_questions_head">How to operate the ATF farm? (Как управлять фермой ATF?)</div>
-			<div class="all_questions_body">Для Вашего удобства разработано программное обеспечение «ATF-i» позволяющее удаленно контролировать весь процесс выращивания через приложение IOS и Android. Также имеется панель управления на самой установке, с помощью которой можно управлять процессом при отсутствии интернета. <br>Интерфейс позволяет контролировать весь процесс роста с любой точки земного шара, записывать и анализировать динамику роста, обмениваться данными и рецептами с другими участниками системы ATF. Дополнительно в «ATF-i» встроены режимы выращивания 30 видов растений с возможность расширения базы, интерактивные подсказки и обучение первым шагам в растениеводстве.</div>
+			<div class="all_questions_head">How to operate the ATF farm?</div>
+			<div class="all_questions_body">We have developed the ATF-i software allowing the remote control via an iOS/Android app. In addition, the device features a built-in touch screen to operate ATF when the Internet connection is unavailable. The software interface is designed to control and monitor the whole growth cycle from anywhere, track and analyze the growth dynamics, and share the data, tips, and recipes with other ATF users globally. ATF-i feature 30 modes, each for a specific plant variety, which can be further expanded, tutorials, and real-time tips.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-7">
-			<div class="all_questions_head">Any information about the potential of the market? (Есть информация о потенциале рынка?)</div>
-			<div class="all_questions_body">Розничные продажи органических продуктов питания превышают $81 млрд в год — это почти в четыре раза больше, чем было, например, в далеком 2000 году ($18 млрд). <br>Легальное производство каннабиса в США ускоряется заметными темпами, в 2016 году североамериканские потребители потратили $ 6,7 млрд на приобретение каннабиса для медицинских целей, что на 34% выше по сравнению с 2015г.<br>По данным ARC View Market Research, URB Analytics, расходы на правовом рынке каннабиса в Северной Америке в 2016 году были 7,3 млрд. $, планируемый рост составит 33% в 2017 году и увеличиться до $ 9,7 млрд. $</div>
+			<div class="all_questions_head">Any information about the potential of the market?</div>
+			<div class="all_questions_body">The market research company Ecovia Intelligence estimates that the global market for organic food reached $89.7 billion in 2016. In France, the €7 billion French organic market increased by €500 million in the first half of 2017, growing at better than 10% a year. Canada's Organic Trade Association (COTA) reported an 8.7% (CAGR) growth in organics from 2012-2017, with overall sales of can$5.4 billion. The Soil Association’s 2018 Organic Market Report in February revealed the UK organic market is now worth over £2.2 billion, growing 6% in 2017. The US Organic Trade Association reported that for the 2016 year, US organic sales totaled around$47 billion, reflecting more sales of almost $3.7 billion from the previous year, with $43 billion in organic food sales. Organic food now accounted for more than 5.3% of total food sales in the country, up 8.4% in 2015, another significant first for organic. (source: Organic & Wellness News).<br>As for cannabis, its legal production has been quickly growing in the USA since the legalization: customers in North America spent $6.7 billion for medical cannabis in 2016 which is 34% as compared with 2015. Worldwide consumer spending on legal cannabis is projected to reach $57 billion by 2027, according to the “The Road Map to a $57 Billion Worldwide Market” report released by Arcview Market Research, in partnership with BDS Analytics on February 26th . The report also predicts that adult-use cannabis will make up the majority of spending totaling $38.3 billion, while medical spending will reach $19.1 billion. (source: The Arcview Group).</div>
 		  </div>
 		  <div class="all_questions" data-id="q-8">
-			<div class="all_questions_head">Are there any competitive advantages of your product? (Есть ли конкурентные преимущества вашего продукта?)</div>
-			<div class="all_questions_body">В настоящее время рынки США и Канады относительно молоды и не насыщены, несмотря на значительный рост потребителей каннабиса. ATF Home - это совершенно новый тип бытовой техники, который отличается от нескольких существующих, но не готовых к продаже «этикеток» следующими особенностями:<br>Наличие системы многопараметрической настройки выращивания для профессиональных grower позволяющая легко моделировать собственные режимы от самых простых до сложных с возможностью записывать, хранить и делиться полученными результатами.<br>Интеллектуальная система автономного выращивания со встроенными режимами для новичков в выращивании или людей, не желающих участвовать в процессе, а просто получить за короткое время гарантированный урожай.<br>Опираясь на собственный опыт разработанная, конструкция позволяет выращивания не только низкорослые сорта Indica, но среднерослые сорта sativa высотой до 130 см, а наличие двух посадочных мест увеличивает полученный урожай вдвое, позволяя обеспечить запасами себя и друзей на более длительный срок. Это действительно удобно, ATF Home Grower можно использовать для производства большего количества сырья, а это значит, что часть каннабиса можно потратить на новые эксперименты с приготовлением конопляных масел, пищи с каннабисом и для других целей.<br>Технологии ATF Farm фокусируется на полной автоматизации процессов, происходящих внутри, это означает конец необходимости проводить многочисленные проверки уровня рН, ЕС и доливки воды и удобрений в бак, а также борьбы с вредителями. Единственное, что вам нужно сделать, это посадить семена наполнить емкости с питательными удобрениями и собрать урожай. Даже процесс чистки системы теперь автоматизирован!<br>Никаких дополнительных спрятанных расходов, на техническое обслуживание, покупатели ATF получают бесплатный набор добавок и расходных частей для работы в течение как минимум одного года.<br>Элегантный дизайн делает дом ATF новой отличимой частью, значительно индивидуализируя ваш жилой интерьер и привлекая внимание гостей.<br>На фермы ATF распространяется 2-летняя гарантия производителя.<br>В отличие от значительного числа новых команд, подающих заявки на финансирование ICO, команда ATF накопила серьезный опыт в проектировании и производстве внутренних и домашних ферм.</div>
+			<div class="all_questions_head">What are the competitive advantages with your product?</div>
+			<div class="all_questions_body">Today, the legal cannabis markets in the USA and Canada are still poorly developed and supplied, despite the raising numbers of customers. ATF Basic is an innovative appliance which has the following key features:<br>
+			<ul>
+				<li>Customizable multiparameter growth mode for advanced users and agriculture professionals. It allows them to program, store, and share their own modes;</li>
+				<li>Intelligent autonomous growth system featuring a variety of pre-programmed modes which allows average customers and industrial agriculture operators to quickly grow organic food hands-free. Operating ATF is as easy as operating a coffee machine. No pH and EC tests, no refilling the container with water and nutrients, and no pest control is required. You simply add seeds, fill the nutrient solution containers, and get the crops in. Even the cleaning process is automated;</li>
+				<li>Based on our own experience, we designed a structure that allows for the growth of both indica and sativa (up to 130 cm) cannabis types. The structure features two nurse beds which allows for double yields. This means that you will have enough cannabis to experiment with hemp oil recipes, food supplements, and more. No hidden maintenance costs. Moreover, ATF purchase goes with a free set of nutrients and amount of supplies that will satisfy a whole year of operation.<br>The clean design of ATF will add a fancy, slightly futuristic stroke to the interior of your home or restaurant. It will certainly awe and wow your guests;</li>
+				<li>The manufacturer warranty coverage period with ATF is two years;</li>
+				<li>Unlike most of ICOs, there is a well-established company behind the ATF project. We have have accumulated a wealth of experience in researching agriculture, developing technology, and building similar products;</li>
+			</ul>
+		  </div>
 		  </div>
 		  <div class="all_questions" data-id="q-9">
-			<div class="all_questions_head bg-color">When are you planning to deliver ATF farms to customers? (Когда вы планируете поставлять фермы ATF клиентам?)</div>
-			<div class="all_questions_body">Запуск производства Домашней серии оборудования и создание прототипа Промышленной серии для бизнеса планируется в 3 квартале 2018г., официальный старт продаж запланирован на 4 квартал 2018г.
+			<div class="all_questions_head bg-color">When are you planning to deliver ATF farms to customers?</div>
+			<div class="all_questions_body">ATF Basic launch in production and ATF Enterprise prototype development are scheduled for the third quarter of 2018. The official market launch is planned for the fourth quarter of 2018.
 			</div>
 		  </div>
 		  <div class="all_questions" data-id="q-10">
-			<div class="all_questions_head bg-color">Does this product already exist? (Этот продукт уже существует?)</div>
-			<div class="all_questions_body">Рабочий прототип Домашней серии для выращивания высокорослых растений методом гидропоника был создан еще в 2015 году, после испытаний в 2016 была проведена модернизация технологических узлов и программного обеспечения.</div>
+			<div class="all_questions_head bg-color">Does this product already exist?</div>
+			<div class="all_questions_body">The working prototype of ATF Basic was created in 2015. This was followed by the technical update of production units and software in 2016.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-11">
-			<div class="all_questions_head">Is there any calculations of product payback period for a customer? (Есть ли расчеты срока окупаемости продукта для клиента?)</div>
-			<div class="all_questions_body">ATF-Home создано как оборудование для выращивания экологически-чистой продукции или марихуаны для собственного пользования. Для ведения бизнеса используется серия ATF-Industrial, расчеты окупаемости оборудования в данном случае зависят от выращиваемых культур и формируются по запросу.</div>
+			<div class="all_questions_head">Is there any calculations of product payback period for a customer?</div>
+			<div class="all_questions_body">ATF Basic is designed as an equipment for growing organic green food and cannabis for home and small/midsize businesses. The industrial scale production is facilitated with ATF Enterprise. The payback period depends on the plant varieties grown with ATF and is calculated on request.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-12">
-			<div class="all_questions_head">What's the estimate shipping cost in the US? (Какова оценка стоимости доставки в США?)</div>
-			<div class="all_questions_body">Планируемая стоимость доставки оборудования ATF-Home в США порядка 200-300 долларов США в зависимости от штата.
-			</div>
+			<div class="all_questions_head">What's the estimate shipping cost in the US?</div>
+			<div class="all_questions_body">The estimated shipping cost to the USA is between $200 and $300 depending on the state.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-13">
-			<div class="all_questions_head">How much does additional nutrition cost? (Сколько стоит дополнительное питание?)</div>
-			<div class="all_questions_body">Комплект удобрений на полгода эксплуатации ATF-Home включен в комплект поставки бесплатно. Дополнительный комплект удобрений на один месяц выращивания в ATF-Home составит 10-15 долларов США.</div>
+			<div class="all_questions_head">How much does additional nutrition cost?</div>
+			<div class="all_questions_body">A set of fertilizers that will cover your yearly needs goes with ATF Basic purchase and is completely free. An additional set for one month will cost about $10-$15.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-14">
-			<div class="all_questions_head">How much electricity does the system consume? (Сколько электроэнергии потребляет система?)</div>
-			<div class="all_questions_body">Максимальное энергопотребление для модели ATF-Home на одно высокорослое растение составляет 250Вт.</div>
+			<div class="all_questions_head">How much electricity does the system consume?</div>
+			<div class="all_questions_body">The maximum power consumption with ATF Basic is 250W by raising one tall-growing plant.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-15">
-			<div class="all_questions_head">Which plants can be grown with ATF? (Какие растения можно выращивать с помощью ATF?)</div>
-			<div class="all_questions_body">Домашняя серия оборудования создана в двух модификациях для низкорослых культур (клубника, салат, базилик, руккола, помидоры черри и другие) и для высокорослых культур (помидоры, огурцы, каннабис и другое).</div>
+			<div class="all_questions_head">Which plants can be grown with ATF?</div>
+			<div class="all_questions_body">The ATF Basic edition features two models: for low-growing plants (e.g.: strawberry, salad, basil, arugula, cherry tomato, etc.) and for tall-growing plants (e.g.: tomato, cucumber, cannabis, etc.).</div>
 		  </div>
 		  <div class="all_questions" data-id="q-16">
-			<div class="all_questions_head">What is agro appliance size? (Какой размер Агро прибор?)</div>
-			<div class="all_questions_body">Габаритные размеры:<br>ATF HOME ONE: 24” x 24” x 80”, <br>ATF HOME TWO: 32” x 24” x 80”, <br>ATF HOME GREEN 24” x 24” x 80”, <br>ATF HOME FARM 24” x 24” x 80”.</div>
+			<div class="all_questions_head">What is agro appliance size?</div>
+			<div class="all_questions_body">ATF is featured in the following dimensions:<br>ATF BASIC ONE: 24” x 24” x 80”, <br>ATF BASIC TWO: 32” x 24” x 80”, <br>ATF BASIC GREEN 24” x 24” x 80”, <br>ATF BASIC FARM 24” x 24” x 80”.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-17">
-			<div class="all_questions_head">Is your corporate apps free for users? (Ваши корпоративные приложения бесплатны для пользователей?)</div>
-			<div class="all_questions_body">Базовая конфигурация программного обеспечения «ATF-i» позволяющая пользоваться функциями ATF Home и выращивать растения – бесплатна. Дополнительно можно подписаться на обновления программного обеспечения с целью получать новые рецепты выращивания других культур, возможности общаться с другими участниками системы и ряд дополнительных функций.</div>
+			<div class="all_questions_head">Are ATF apps free for users?</div>
+			<div class="all_questions_body">The basic ATF-i software allowing you to manage ATF Basic and grow with it is free. You can upgrade to Premium and get additional features such as access to further recipes, communication with other ATF users, and more.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-18">
-			<div class="all_questions_head">Do you provide ATF farms with manufacturer warranty? (Предоставляете ли вы ATF farms гарантию производителя?)</div>
-			<div class="all_questions_body">Да, гарантия на оборудование ATF Homе составляет 2 года, расширенная 3 годовая гарантия обеспечит дополнительный сервис 24 часа в сутки 7 дней в неделю.</div>
+			<div class="all_questions_head">Do you provide ATF farms with manufacturer warranty for ATF?</div>
+			<div class="all_questions_body">Sure. The default manufacturer warranty covers two years of operation. The extended warranty is for three years and covers 24/7 maintenance.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-19">
-			<div class="all_questions_head">What is the token supply? (Какой поставить знак?)</div>
-			<div class="all_questions_body">Токены создаются с помощью смарт-контракта ERC20. Токены будут выпущены в количестве 5,000,000.</div>
+			<div class="all_questions_head">What is the token supply?</div>
+			<div class="all_questions_body">The total token supply is ATF 5,000,000. </div>
 		  </div>
 		  <div class="all_questions" data-id="q-20">
-			<div class="all_questions_head">When will I get my tokens, which are purchased during the ICO campaign? (Когда я получу свои токены, которые приобретаются во время ICO кампании?)</div>
-			<div class="all_questions_body">Токены переводятся сразу на ваш кошелек, с которого производилась покупка. Токены реферальные и баунти будут распределены через 2 недели после окончания ICO. Держатели токенов ATF имеют право использовать их свободно по своему усмотрению. </div>
+			<div class="all_questions_head">When will I get my tokens which are purchased during the ICO campaign?</div>
+			<div class="all_questions_body">ATF tokens are transferred to your wallet right away. Referral and bounty tokens will be distributed in two weeks after the ICO completion. ATF token holders are free to use them as they decide to.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-21">
-			<div class="all_questions_head">What is the period of return on investment? (Каков срок возврата инвестиций?)</div>
-			<div class="all_questions_body">Компания будет производит обратный выкуп токенов с бирж, после старта продаж оборудования</div>
+			<div class="all_questions_head">What is the period of return on investment?</div>
+			<div class="all_questions_body">We will be buying ATF tokens back from exchanges once we have launched on the market.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-22">
-			<div class="all_questions_head">Why do you use a Cyprus company? (Почему Вы используете Кипрскую компанию?)</div>
-			<div class="all_questions_body">Кипр является одной из стран, предлагающих более выгодные условия для ведения международного бизнеса.</div>
+			<div class="all_questions_head">Why do you use a Cyprus company?</div>
+			<div class="all_questions_body">Cyprus is one of the most international business-friendly nations.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-23">
-			<div class="all_questions_head">I am interested in your product but can I become an investor? (Я заинтересован в вашем продукте, но могу ли я стать инвестором?)</div>
-			<div class="all_questions_body">Все инструкции по приобретению токенов доступна исключительно в личном кабинете на сайте agrotechfarm.io/home</div>
+			<div class="all_questions_head">I am interested in your product but can I become an investor?</div>
+			<div class="all_questions_body">The only official updated instructions on token purchase are that in your online account at <a href="https://www.agrotechfarm.io/">agrotechfarm.io</a></div>
 		  </div>
 		  <div class="all_questions" data-id="q-24">
-			<div class="all_questions_head">How many tokens are you offering during the ICO sale? (Сколько токенов вы предлагаете во время продажи ICO?)</div>
-			<div class="all_questions_body">Основной этап ICO начнется 1 Июня 2018 года и продлится до 31 июля 2018 года. Максимальная сумма средств, собранных в ходе ICO устанавливается на 40000 ETH («Hard Cap»), что равняется 3,250,000 токенов и сумме около 20 миллионов долларов.</div>
+			<div class="all_questions_head">How many tokens are you offering during the ICO sale?</div>
+			<div class="all_questions_body">Our public sale has been live since June 1st and will end on July 31st, 2018. The hard cap is set at ETH 40,000 which equals to ATА 3,250,000, or $20,000,000.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-25">
-			<div class="all_questions_head">How could be the ATF token beneficial for me personally? (Как токен ATF может быть полезен лично для меня?)</div>
-			<div class="all_questions_body">Токен даёт скидку 20% на покупку оборудования ATF. Скидка применяется при следующих условиях: 60% оплата деньгами, 20% оплата токенами, 20% скидка. Скидка на оборудование не суммируется с другими скидками, оплата токенами считается по курсу на день покупки.<br>- Токен даёт скидку в размере 50% на обслуживание и расходные материалы: рассаду, раствор, комплектующие, приложение для уровня ПРОФИ. Скидка не суммируется с другими скидками, оплата токенами считается по курсу на день покупки.<br>Таким образом токены будут возвращаться в компанию AgroTechFarm, после чего будет происходить сжигание токенов. (<br>- Токены ATF будут размещены на ведущих криптовалютных биржах, которые компания объявит после окончания ICO.<br>- Компания будет производит обратный выкуп токенов с бирж, после старта продаж оборудования.</div>
+			<div class="all_questions_head">How will I personally be able to profit from holding ATF tokens?</div>
+			<div class="all_questions_body"> 
+				<ul>
+					<li>ATF tokens will allow for the AgroTechFarm product price discount up to 20%. When purchasing the product you can get an up to 20% discount by paying no less than 60% of its price in fiats (conventional currency, i.e. dollar, euro, etc.) and up to 20% in ATF tokens. This discount is not cumulative with any other discount. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase.</li>
+					<li>ATF tokens allow you to get a 50% discount in maintenance and supplies which include seeds, nutrients, hardware accessories, and the AgroTechFarm PRO app. The amount paid in ATF tokens is calculated based on their exchange rate at the date of purchase. </li>
+					<li>ATF tokens will be listed on the leading cryptocurrency exchanges. The details will be announced shortly after the completion of the ICO.</li>
+					<li>We will be buying ATF tokens back from exchanges once the devices are launched on the market.</li>
+				</ul>
+			</div>
 		  </div>
 		  <div class="all_questions" data-id="q-26">
-			<div class="all_questions_head">What is your plan if you fail to collect the necessary amount during the ICO? (Каков ваш план, если Вы не соберете необходимую сумму во время ICO?)</div>
-			<div class="all_questions_body">При условии невыполнения Soft Cap проект будет приостановлен, а деньги возвращены, поскольку это будет означать, что проект не нашел одобрения у людей, а капитала будет недостаточно для масштабного запуска бизнеса. Если порог Soft Cap будет преодолен, но Hard Cap не достигнут, то токены не проданные будут сожжены (от количества, выделенных для продажи). Все средства, полученные после достижения Hard Cap 40000 ETH будут автоматически возвращены отправителю.</div>
+			<div class="all_questions_head">What is your plan if you fail to collect the necessary amount during the ICO?</div>
+			<div class="all_questions_body">If we fail to reach soft cap this will mean that the ICO has failed and ATF token holders will be refunded. The ICO is successful when soft cap is reached. In this case, all unsold tokens are burned. If all tokens are sold this means that hard cap has been reached.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-27">
-			<div class="all_questions_head">How much money do you need to build a factory? (Сколько денег нужно, чтобы построить завод?)</div>
-			<div class="all_questions_body">В случае сбора 4 500 000 долларов США, мы начнем производство в Канаде, с возможностью приобретения собственного оборудования и подходящего промышленного объекта. Проект будет развиваться по нашим планам, прогнозируемые обороты составят порядка 20млн в год.</div>
+			<div class="all_questions_head">How much money do you need to build a factory?</div>
+			<div class="all_questions_body">If we manage to raise $4,500,000 these funds will allow us to buy industrial equipment and rent a facility to begin manufacturing in Canada. The estimated annual turnover is $20,000,000.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-28">
-			<div class="all_questions_head">Can your customers feel safe? How can legal issues be settled? (Ваши клиенты чувствуют себя в безопасности? Как урегулировать правовые вопросы?)</div>
-			<div class="all_questions_body">Токены создаются с помощью смарт-контракта ERC20. Смарт контракт будет опубликован в публичных источниках. Компания Agro Tech Farm после выхода на рынок будет проходить независимый аудит одной из бухгалтерских компаний Большой четверки или другой международно признанной бухгалтерской фирмой для ежегодного аудита третьей стороной.<br>Все новости и планы компании будут опубликованы и доступны всем желающим в следующих источниках, группа Телеграмм, на сайте в разделе новости, емайл рассылка подписчикам.<br>Никто из команды не даёт дополнительные скидки, и никто не предоставляет отдельные номера кошельков.</div>
+			<div class="all_questions_head">Can your customers feel safe? How can legal issues be settled?</div>
+			<div class="all_questions_body">ATF tokens are ERC20 type. The smart contract is published online. Once we have launched on the market, the company will be audited by one of the Big 4 or other highly authoritative third party companies.The latest ICO updates are published on our open resources such as the Telegram group, social media accounts, and website. We also notify our subscribers about the main news with the ICO. None of our team members offers an additional discount or asks you to send your funds to any alternative wallet.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-29">
-			<div class="all_questions_head">Why don't you find an investor and earn billions with such a perspective technology? (Почему бы вам не найти инвестора и не заработать миллиарды с такой перспективной технологией?)</div>
-			<div class="all_questions_body">Мы используем ICO, как механизм краудфандинга, смарт-контракт как безопасный и удобный способ для инвестора стать одним из первых обладателей продукции компании, а для компании привлечь инвестиции для реализации проекта. К тому же ICO позволяет стратегически управлять компанией и не зависит от крупного инвестора, который контролирует часть акций.</div>
+			<div class="all_questions_head">Why don't you find an investor and earn billions with such a perspective technology?</div>
+			<div class="all_questions_body">We leverage ICO as a funding model and smart contract as a secure and simple way to support the project. Furthermore, the ICO model allows us to avoid being dependant on a few major investors each of whom has a substantial part in our company and can dictate their own policy.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-30">
-			<div class="all_questions_head">Which crypto currency can I use to buy the tokens during crowd sale?(Какие крипто валюту я могу использовать, чтобы купить жетоны в продаже толпе?)</div>
-			<div class="all_questions_body">Базовая цена токена 1 ATF = 0,012 ETH, на ранних стадиях доступны бонусные токены в количестве до 50%. Во время продажи оплата принимается только в Ethereum (ETH). </div>
+			<div class="all_questions_head">Which crypto currency can I use to buy the tokens during crowd sale?</div>
+			<div class="all_questions_body">ATF token price is ETH 0.012. Depending on the ICO stage, we offer discounts in token price. As of now, ATF tokens can be purchased with Ethereum, but we are working to introduce other cryptocurrencies in the purchase process.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-31">
-			<div class="all_questions_head">How can I be sure that my tokens are not lost? (Как я могу быть уверен, что мои фишки не теряются?)</div>
-			<div class="all_questions_body">Токены создаются с помощью смарт-контракта ERC20, смарт контракт будет опубликован в публичных источниках, где их можно отслеживать через личный кабинет.</div>
+			<div class="all_questions_head">How can I be sure that my tokens are not lost?</div>
+			<div class="all_questions_body">ATF tokens are created via ERC20-type smart contract. The link to smart contract is published on our website.</div>
 		  </div>
 		  <div class="all_questions" data-id="q-32">
-			<div class="all_questions_head">How can I secure myself from fraud? (Как я могу обезопасить себя от мошенничества?)</div>
-			<div class="all_questions_body">Смарт-контракт ERC20 является гарантом безопасности сделок и защиты данных от мошенничества.</div>
+			<div class="all_questions_head">How can I secure myself from fraud?</div>
+			<div class="all_questions_body">ERC20-type smart contract guarantees safe purchases and prevents fraud.</div>
 		  </div>
         </div>
       </div>

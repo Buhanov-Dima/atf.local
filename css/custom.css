@@ -627,9 +627,9 @@
 	justify-content: space-around;
 }
 .h_nav {
-	
 	width: auto;
 }
+.h_nav li {cursor: pointer;}
 .slaider-team-list.owl-carousel, .slaider-team-list-2.owl-carousel {
 	display: none;
 }
@@ -658,6 +658,7 @@
     flex-wrap: wrap;
     max-width: 800px;
     margin: auto;
+    margin-left: 270px;
 }
 .c_structure-list p {
 	position: relative;
