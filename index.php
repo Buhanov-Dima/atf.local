@@ -83,8 +83,8 @@
 		
 	</div>
 	<div class="m_inb h_middle">
-		<h1 class="main-h1-b1">THE PLANET’S ORGANIC FUTURE BEGINS. BE PART OF IT NOW.</h1>
-		<div class="h_desc">Using blockchain, we will guarantee the organic origin of food grown with AgroTechFarm equipment.</div>
+		<h1 class="main-h1-b1">THE PLANET’S ORGANIC FUTURE BEGINS NOW. BE PART OF IT.</h1>
+		<div class="h_desc">Using blockchain, we will guarantee the organic origin of food<br>grown with AgroTechFarm equipment.</div>
 		<div class="h_graf">
 		<!-- wrap-main-block -->
 			<div class="wrap-main-block">
@@ -94,15 +94,15 @@
 					<a class="c_faq-btn mg-t-3" href="/home/" target="_blank">Buy ATF tokens now</a>
 					<div class="wp_ref_op">
 						<a href="/docs/wp_atf.pdf" target="_blank">Whitepaper</a>
-						<a data-fancybox data-animation-duration="700" data-src="#popup-2" href="javascript:;">Referal program</a>
+						<a data-fancybox data-animation-duration="700" data-src="#popup-2" href="javascript:;">Referral program</a>
 						<a href="/docs/one-pager-en.pdf" target="_blank">One pager</a>
 					</div>
 				</div>
 				<div class="main-b2">
 					<div class="b2-txt">
 						<p><b>0</b> ETH</p>
-						<p><b>1600</b> ETH</p>
-						<p><b>40.000</b> ETH</p>
+						<p><b>1,600</b> ETH</p>
+						<p><b>40,000</b> ETH</p>
 					</div>
 					<div class="progressbar">
 						<p><?=file_get_contents('token.txt');?> ETH</p>
@@ -236,7 +236,7 @@
 					<p>Cost-efficient<br>business model</p>
 				</div>
 				<div class="txt-icons">
-					<p>AgroTechFarm cuts logistics costs by allowing you to raise vegetables and greens wherever you are.<br>Thanks to its automation, the grow cabinet requires only a few personnel to run it.<br>Multiple level structure can be used to harvest much more from 1 sq. m as compared to the traditional growing method.</p>
+					<p>AgroTechFarm cuts logistics costs by allowing you to raise vegetables and greens wherever you are. Thanks to its automation, the grow cabinet requires only a few personnel to run it. Multiple level structure can be used to harvest much more from 1 sq. m as compared to the traditional growing method.</p>
 				</div>
 			</div>
 			<div class="icon">
@@ -1644,14 +1644,14 @@
 			</form>
 		</div>
 		<div class="c_subs-soc">
-			<a href="#" class="c_subs-link c_subs-link__m"></a>
-			<a href="#" class="c_subs-link c_subs-link__b"></a>
-			<a href="#" class="c_subs-link c_subs-link__tg"></a>
-			<a href="#" class="c_subs-link c_subs-link__tw"></a>
-			<a href="#" class="c_subs-link c_subs-link__git"></a>
-			<a href="#" class="c_subs-link c_subs-link__fb"></a>
-			<a href="#" class="c_subs-link c_subs-link__in"></a>
-			<a href="#" class="c_subs-link c_subs-link__rd"></a>
+			<a href="https://medium.com/@agro_tech_farm" class="c_subs-link c_subs-link__m" target="_blank"></a>
+			<a href="https://bitcointalk.org/index.php?topic=2817270.1880" class="c_subs-link c_subs-link__b" target="_blank"></a>
+			<a href="https://t.me/icoATF" class="c_subs-link c_subs-link__tg" target="_blank"></a>
+			<a href="https://twitter.com/agro_tech_farm" class="c_subs-link c_subs-link__tw" target="_blank"></a>
+			<a href="https://github.com/Agrotechfarm/smartcontracts" class="c_subs-link c_subs-link__git" target="_blank"></a>
+			<a href="https://www.facebook.com/AgroTechFarmICO" class="c_subs-link c_subs-link__fb" target="_blank"></a>
+			<a href="https://www.linkedin.com/company/11442595" class="c_subs-link c_subs-link__in" target="_blank"></a>
+			<a href="https://www.reddit.com/r/AgroTechFarmICO/" class="c_subs-link c_subs-link__rd" target="_blank"></a>
 		</div>
 	</div>
 </div><!-- .content -->
@@ -1686,7 +1686,7 @@
 		<div class="f_mark">
 			<div class="f_head">Contact </div>
 			<div class="f_mark-info">For invest<br><a href="mailto:ico@agrotechfarm.io">ico@agrotechfarm.io</a><br>For marketing & partnership<br><a href="mailto:marketing@agrotechfarm.io">marketing@agrotechfarm.io</a></div>
-			<div class="c_faq-btn">Contact with CEO</div>
+			<a href="https://t.me/ILTsiv" target="_blank"><div class="c_faq-btn">Contact with CEO</div></a>
 		</div>
 		<div class="f_adress">
 			<div class="f_head">Legal address</div>
