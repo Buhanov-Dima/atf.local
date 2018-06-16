@@ -2,7 +2,7 @@
 .main-b1, .main-b2 {padding: 0;} .timer span {font-size: 30px;} .timer b {right: -10px; font-size: 28px;} .timer p {font-size: 12px;}
 .wrap-main-block {padding: 50px 0;} .timer {max-width: 210px;} .m_box {min-width: auto;} .c_what-home, .c_what-indust {padding-right: 0;} 
 .c_solution-item {width: 100%;}
-.c_howit-box, .howitbox-n {width: 215px;} .c_structure-graf {width: 250px; top: 1127px; bottom: 0; left: 0; right: 0; margin: auto;} .hwb-1::before, .hwb-2::before, .hwb-3::before, .hwb-4::before, .hwb-5::before, .hwb-6::before, .hwb-7::before, .hwb-8::before {width: 215px;}
+.c_howit-box, .howitbox-n {width: 215px;} .c_structure-graf {width: 250px; top: 1127px; bottom: 0; left: 0; right: 0; margin: auto;} .hwb-1::before, .hwb-2::before, .hwb-3::before, .hwb-4::before, .hwb-5::before, .hwb-6::before, .hwb-7::before, .hwb-8::before, .hwb-10::before {width: 215px;}
 .c_token table tr td {padding: 4px 5px; } .c_document-item {width: 100%;} .wp_ref_op {display: flex; flex-direction: column;} .c_problems-info {padding: 10px;}
 .c_solution-item {margin: 0;} .c_what-home {padding: 0; padding-top: 300px;} 
 .c_what-indust {padding: 0; padding-top: 300px;} .c_what-indust::before {left: 10px; max-width: 285px; width: 100%; background-position-x: 0;} .c_tech-info ul li {width: 100%;} .c_howit-item {display: none;}
@@ -15,3 +15,6 @@
 .c_howit-box__dot11 { top: 224px; left: 151px; } .c_howit-box__dot12 {top: 260px; left: 101px;}
 .c_howit-box__dot6 {top: 256px;} 
 .c_what-home::before {left: 13px; width: 100%; top: -80px; max-width: 275px; background-position-x: 0; }
+.c_structure-list p {width: 100%;} .c_structure-list {width: 100%; max-width: 300px; margin-left: 0; padding-left: 70px;}
+.c_product-item {float: none;} .c_solution {padding-top: 0;} .c_problems {padding-bottom: 0;} .c_subs-form input {width: 270px; margin: auto; float: none;}
+.c_subs-form input[type="submit"] {width: 270px; float: none;} .c_subs-form form {text-align: center;} .f_adress {max-width: 220px;}

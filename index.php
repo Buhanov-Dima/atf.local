@@ -102,7 +102,7 @@
 					<div class="b2-txt">
 						<p><b>0</b> ETH</p>
 						<p><b>1600</b> ETH</p>
-						<p style="left: 10px;"><b>40.000</b> ETH</p>
+						<p><b>40.000</b> ETH</p>
 					</div>
 					<div class="progressbar">
 						<p><?=file_get_contents('token.txt');?> ETH</p>
@@ -303,7 +303,7 @@
 				</div>
 			</div>
 			-->
-			<div class="">
+			<div class="w-100">
 				<img src="/img/bg-what-home.png" alt="">
 			</div>
 			<div class="d-non-md">
@@ -1095,7 +1095,7 @@
 					<div class="c_team-item__posit">Legal adviser</div>
 					<div class="c_team-item__desc">LL.M. in European and International economic law (LMU Munich). Specializes in international trade, services and license contracts, corporate law and dispute resolutions. Supports companies in international project management and negotiations. Legal adviser in Russian IT company. Fluent in German and English.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/olga.prilepina.9" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/olga.prilepina.9 " class="c_team-item__fb"></a>
 						<a href="https://www.linkedin.com/in/olga-prilepina-385764133/" class="c_team-item__in"></a>
 					</div>
 				</div>
@@ -1638,7 +1638,7 @@
 		<div class="c_head wow slideInDown animated">Subscribe</div>
 		<div class="c_desc wow slideInUp animated">Follow the life of the Agro Tech Farm</div>
 		<div class="c_subs-form">
-			<form action="http://aleksandrlao.ru/work/atf/" method="POST">
+			<form action="" method="POST">
 				<input type="text" name="s" id="s" placeholder="Your email address">
 				<input type="submit" value="Subscribe">
 			</form>
@@ -1686,6 +1686,7 @@
 		<div class="f_mark">
 			<div class="f_head">Contact </div>
 			<div class="f_mark-info">For invest<br><a href="mailto:ico@agrotechfarm.io">ico@agrotechfarm.io</a><br>For marketing & partnership<br><a href="mailto:marketing@agrotechfarm.io">marketing@agrotechfarm.io</a></div>
+			<div class="c_faq-btn">Contact with CEO</div>
 		</div>
 		<div class="f_adress">
 			<div class="f_head">Legal address</div>

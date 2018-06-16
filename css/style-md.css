@@ -1,6 +1,6 @@
 .c_what-home, .c_what-indust {width: 100%; padding: 0 0 0 280px;} .c_what-indust::before, .c_what-home::before {background-size: contain; left: 0; width: 325px; background-position: -31px; }
 .c_structure-graf {position: absolute; top: 387px; left: 0; margin: 0;} .c_structure-info {position: relative; margin: 0; width: 50%; margin-top: 35px;}
-.c_structure-list p { margin: 10px 15px; } .c_document-item {width: 48%;} .c_team-item {width: 100%; margin: auto; padding: 0; min-height: 357px;} .c_team-item::before, .c_team-item::after {display: none;}
+.c_structure-list p { margin: 10px 15px; width: 25%;} .c_document-item {width: 48%;} .c_team-item {width: 100%; margin: auto; padding: 0; min-height: 357px;} .c_team-item::before, .c_team-item::after {display: none;}
 #main_nav-2 {display: block;} #main_nav {display: none;} .h_box .h_nav {display: none;} .h_signin {position: absolute; right: 65px;}
 .m_inb.f_top {justify-content: space-around;} .c_howit-item {position: relative; width: 48%; margin-left: auto; z-index: 10;} .wrap-howitbox {position: absolute; width: 100%; min-height: 452px;}
 .widgets.act-new {flex-wrap: wrap; justify-content: center;} .widgets.act-new img {margin: 10px;} .c_what-indust::before {max-width: 500px; background-position: -31px;}
@@ -17,7 +17,7 @@
 .howitbox-n, .c_howit-box {margin: 0;} .c_howit-mod {flex-direction: column;} .slaider-1 .owl-nav button.owl-prev, .slaider-1 .owl-nav button.owl-next {width: 30px; height: 30px;}
 .slaider-1 .owl-nav button.owl-next {right: 18px; top: 50px;} .slaider-1 .owl-nav button.owl-prev {left: 0; top: 50px;} .c_why-item {width: 50%; padding: 10px;}
 .c_token table tr td {padding: 0 5px;} .c_structure-info__head {text-align: left;} .c_structure-graf {position: absolute;} .c_structure-box {display: flex; justify-content: space-between;}
-.c_structure-info.c_structure-info__right { top: 67px; } .c_structure-list {flex-direction: column; justify-content: center; align-items: flex-start; margin-left: 400px; margin-top: -145px;}
+.c_structure-info.c_structure-info__right { top: 67px; } .c_structure-list {flex-direction: column; justify-content: center; align-items: flex-end; margin-top: -145px;}
 .c_document-list {display: none;} .c_document-item {width: 100%;} .slaider-documents {display: block; padding: 0 60px;}
 .slaider-documents .owl-nav button.owl-next {right: 20px; top: 30%;} .slaider-documents .owl-nav button.owl-prev {left: 20px; top: 30%;}
 .slaider-team-list-2 {padding: 0 0px 25px; background-color: rgba(0, 0, 0, .1);} .slaider-team-list-2 .owl-dots {display: none;} .c_team .m_inb {padding: 0 60px;}
@@ -30,4 +30,5 @@
 .c_sales-video { width: 100%; margin: 0; } .c_sales-box1, .c_sales-box2, .c_sales-video img { width: 215px; height: 175px;} .slaider-2-2 {display: block;}
 .c_press-item {flex-direction: column;} .c_press-item__info {width: 100%;} .slaider-2.owl-carousel {display: none;} div.c_press-item {align-items: flex-start;}
 .m_inb.f_top .h_logo {left: 30px; margin: 0;} .f_nav {display: none;} .slaider-team-list-2 .owl-nav button.owl-prev {top: 40%; left: -35px;} .slaider-team-list-2 .owl-nav button.owl-next {top: 40%; right: -35px;}
-.w-100 img {width: 100%;} .c_solution-item {display: none;}
+.w-100 img {width: 100%;} .c_solution-item {display: none;} #main_nav-2 li:hover ul {left: -126px; padding: 8px 0;}
+#h_nav {flex-direction: column; top: 55px;} .h_top {position: relative; z-index: 999;} #h_nav li { padding: 4px 15px;}
