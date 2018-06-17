@@ -1632,3 +1632,7 @@ div.c_press-item {display: flex; align-items: center;}
     color: blue;
 }
 .f_mark .c_faq-btn {margin-top: 15px;}
+.c_document-item__lang a{
+    text-decoration: none;
+    border-bottom: none;
+}

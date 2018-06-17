@@ -456,6 +456,7 @@
 		<div class="c_howit-mod">
 			<div class="c_howit-item">
 				<div class="c_howit-item__point c_howit-item__point1" data-id="1">Electronic complete air purification system</div>
+					<div><p></p></div>
 				<div class="c_howit-item__point c_howit-item__point2 active" data-id="2">Two-circuit air circulation system</div>
 				<div class="c_howit-item__point c_howit-item__point3" data-id="3">Adaptive LED lamp</div>
 				<div class="c_howit-item__point c_howit-item__point4" data-id="4">Built-in HD camera</div>
@@ -829,60 +830,99 @@
 		<div class="c_head wow slideInDown animated">Documents</div>
 		<div class="slaider-documents owl-carousel">
 			<div>
-				<a href="/docs/wp_atf.pdf" class="c_document-item" target="_blank">
+				<a href="/docs/wp_atf.pdf">
 					<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
-					<span class="c_document-item__title">Whitepaper</span>
-					<span class="c_document-item__lang">EN FR IT RU VI KR DE NL</span>
 				</a>
+				<span class="c_document-item__title">Whitepaper</span>
+				<span class="c_document-item__lang">
+					<a href="/docs/wp_atf.pdf">EN</a>
+					<a href="#">FR</a>
+					<a href="#">IT</a>
+					<a href="#">RU</a>
+					<a href="#">VI</a>
+					<a href="#">KR</a>
+					<a href="#">DE</a>
+					<a href="#">NL</a>
+				</span>
 			</div>
 
 			<div>
-				<a href="/docs/one-pager-en.pdf" class="c_document-item" target="_blank">
-					<span class="c_document-item__thumb"><img src="./img/bg-doc-one-pager.jpg" alt="One Pager"></span>
-					<span class="c_document-item__title">One Pager</span>
-					<span class="c_document-item__lang">EN</span>
+				<a href="/docs/one-pager-en.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-one-pager.jpg" alt="White Paper"></span>
 				</a>
-			</div>
-			<div>
-				<a href="/docs/terms_atf.pdf" class="c_document-item" target="_blank">
-					<span class="c_document-item__thumb"><img src="./img/bg-doc-terms.jpg" alt="Terms and Conditions"></span>
-					<span class="c_document-item__title">Terms and Conditions</span>
-					<span class="c_document-item__lang">EN</span>
-				</a>
+				<span class="c_document-item__title">One Pager</span>
+				<span class="c_document-item__lang">
+					<a href="/docs/one-pager-en.pdf">EN</a>
+				</span>
 			</div>
 
 			<div>
-				<a href="/docs/privacy_atf.pdf" class="c_document-item" target="_blank">
-					<span class="c_document-item__thumb"><img src="./img/bg-doc-pp.jpg" alt="Privacy Policy"></span>
-					<span class="c_document-item__title">Privacy Policy</span>
-					<span class="c_document-item__lang">EN</span>
+				<a href="/docs/terms_atf.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-terms.jpg" alt="White Paper"></span>
 				</a>
+				<span class="c_document-item__title">Terms and Conditions</span>
+				<span class="c_document-item__lang">
+					<a href="/docs/terms_atf.pdf">EN</a>
+				</span>
+			</div>
+
+			<div>
+				<a href="/docs/privacy_atf.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-pp.jpg" alt="White Paper"></span>
+				</a>
+				<span class="c_document-item__title">Privacy Policy</span>
+				<span class="c_document-item__lang">
+					<a href="/docs/privacy_atf.pdf">EN</a>
+				</span>
 			</div>
 		</div>
 		<div class="c_document-list">
-			<a href="/docs/wp_atf.pdf" class="c_document-item" target="_blank">
-				<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
+			<div>
+				<a href="/docs/wp_atf.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
+				</a>
 				<span class="c_document-item__title">Whitepaper</span>
-				<span class="c_document-item__lang">EN FR IT RU VI KR DE NL</span>
-			</a>
+				<span class="c_document-item__lang">
+					<a href="/docs/wp_atf.pdf">EN</a>
+					<a href="#">FR</a>
+					<a href="#">IT</a>
+					<a href="#">RU</a>
+					<a href="#">VI</a>
+					<a href="#">KR</a>
+					<a href="#">DE</a>
+					<a href="#">NL</a>
+				</span>
+			</div>
 
-			<a href="/docs/one-pager-en.pdf" class="c_document-item" target="_blank">
-				<span class="c_document-item__thumb"><img src="./img/bg-doc-one-pager.jpg" alt="One Pager"></span>
+			<div>
+				<a href="/docs/one-pager-en.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-one-pager.jpg" alt="White Paper"></span>
+				</a>
 				<span class="c_document-item__title">One Pager</span>
-				<span class="c_document-item__lang">EN</span>
-			</a>
+				<span class="c_document-item__lang">
+					<a href="/docs/one-pager-en.pdf">EN</a>
+				</span>
+			</div>
 
-			<a href="/docs/terms_atf.pdf" class="c_document-item" target="_blank">
-				<span class="c_document-item__thumb"><img src="./img/bg-doc-terms.jpg" alt="Terms and Conditions"></span>
+			<div>
+				<a href="/docs/terms_atf.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-terms.jpg" alt="White Paper"></span>
+				</a>
 				<span class="c_document-item__title">Terms and Conditions</span>
-				<span class="c_document-item__lang">EN</span>
-			</a>
+				<span class="c_document-item__lang">
+					<a href="/docs/terms_atf.pdf">EN</a>
+				</span>
+			</div>
 
-			<a href="/docs/privacy_atf.pdf" class="c_document-item" target="_blank">
-				<span class="c_document-item__thumb"><img src="./img/bg-doc-pp.jpg" alt="Privacy Policy"></span>
+			<div>
+				<a href="/docs/privacy_atf.pdf">
+					<span class="c_document-item__thumb"><img src="./img/bg-doc-pp.jpg" alt="White Paper"></span>
+				</a>
 				<span class="c_document-item__title">Privacy Policy</span>
-				<span class="c_document-item__lang">EN</span>
-			</a>
+				<span class="c_document-item__lang">
+					<a href="/docs/privacy_atf.pdf">EN</a>
+				</span>
+			</div>
 		</div>
 	</div>
 	<div class="c_document-bg"></div>
@@ -904,8 +944,8 @@
 					<div class="c_team-item__posit">CEO &amp; Founder</div>
 					<div class="c_team-item__desc">Experience in business is 15 years. He was engaged in the sale of construction equipment, production of building materials, founded a company for the installation of video equipment, was engaged in tender supplies for state enterprises. </div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/tsigvintsevilya" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/ilya-tsigvintsev/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/tsigvintsevilya" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/ilya-tsigvintsev/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -915,8 +955,8 @@
 					<div class="c_team-item__posit">COO &amp; CO-Founder</div>
 					<div class="c_team-item__desc">He is engaged in analytical and marketing issues, organizes business processes, strategic development of ATF. Experience in business for 10 years, opened a courier delivery company, an advertising agency – a printing house.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/alexvbasov" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/aleksandrbasov/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/alexvbasov" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/aleksandrbasov/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -926,8 +966,8 @@
 					<div class="c_team-item__posit">TECHNICAL ENGINEER</div>
 					<div class="c_team-item__desc">Developed an algorithm for controlling the microclimate and nutrient solution. Engineer-designer, specializing in automation of technological processes of growing plants with modern methods. Experience in plant growing for more than 5 years, there is a patent.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/kovnerchuk " class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/alexey-kovnerchuk/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/kovnerchuk " class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/alexey-kovnerchuk/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -937,8 +977,8 @@
 					<div class="c_team-item__posit">CBO</div>
 					<div class="c_team-item__desc">Legal and economic issues. Develop & maintaining relations with existing and potential Customers at all levels. Partnerships, sales, projects management.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/olya.bashirova.1" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/olga-bashirova-177312a6/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/olya.bashirova.1" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/olga-bashirova-177312a6/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -948,7 +988,7 @@
 					<div class="c_team-item__posit">AGRO TECHNOLOGY</div>
 					<div class="c_team-item__desc">Specialist in organic farming. More than 5 years own production of organic substrates. In the company he holds the post of technologist, the main task is the introduction of humic substances into hydroponic systems</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100017418731240" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/profile.php?id=100017418731240" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 
@@ -958,7 +998,7 @@
 					<div class="c_team-item__posit">AGRONOM</div>
 					<div class="c_team-item__desc">Specialist in modern plant growing. More than 5 years of experience with this area, starting with ground and ending with aeropony.He is responsible for the selection of optimal conditions for the cultivation of different crops. Conducted scientific research for various new varieties of plants.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/evgeniy-kurochkin/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/evgeniy-kurochkin/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -968,7 +1008,7 @@
 					<div class="c_team-item__posit">Programming, Security</div>
 					<div class="c_team-item__desc">Hasan Awan is Cybersecurity Expert in Residence at NED University and has extensive Cybersecurity experience and is a CISSP. Mr Awan has a BS in Electrical Engineering from Sir Syed University of Engineering</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/hasanawan89" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/hasanawan89" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 
@@ -978,8 +1018,8 @@
 					<div class="c_team-item__posit">Legal adviser</div>
 					<div class="c_team-item__desc">LL.M. in European and International economic law (LMU Munich). Specializes in international trade, services and license contracts, corporate law and dispute resolutions. Supports companies in international project management and negotiations. Legal adviser in Russian IT company. Fluent in German and English.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/olga.prilepina.9 " class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/olga-prilepina-385764133/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/olga.prilepina.9 " class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/olga-prilepina-385764133/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -989,7 +1029,7 @@
 					<div class="c_team-item__posit">IT</div>
 					<div class="c_team-item__desc">Specialization in the field of enterprise management systems, client-server applications in UNIX environments. Work experience more than 20 years</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -999,7 +1039,7 @@
 					<div class="c_team-item__posit">CSO</div>
 					<div class="c_team-item__desc">Mikhail has been doing international PR and marketing since 2013. As a CSO, he works to develop the strategy, perfect the ATF's global message, and further improve the brand's positioning.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1009,7 +1049,7 @@
 					<div class="c_team-item__posit">Referent</div>
 					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 			</div>
@@ -1021,8 +1061,8 @@
 					<div class="c_team-item__posit">CEO &amp; Founder</div>
 					<div class="c_team-item__desc">Experience in business is 15 years. He was engaged in the sale of construction equipment, production of building materials, founded a company for the installation of video equipment, was engaged in tender supplies for state enterprises. </div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/tsigvintsevilya" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/ilya-tsigvintsev/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/tsigvintsevilya" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/ilya-tsigvintsev/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1032,8 +1072,8 @@
 					<div class="c_team-item__posit">COO &amp; CO-Founder</div>
 					<div class="c_team-item__desc">He is engaged in analytical and marketing issues, organizes business processes, strategic development of ATF. Experience in business for 10 years, opened a courier delivery company, an advertising agency – a printing house.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/alexvbasov" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/aleksandrbasov/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/alexvbasov" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/aleksandrbasov/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1043,8 +1083,8 @@
 					<div class="c_team-item__posit">TECHNICAL ENGINEER</div>
 					<div class="c_team-item__desc">Developed an algorithm for controlling the microclimate and nutrient solution. Engineer-designer, specializing in automation of technological processes of growing plants with modern methods. Experience in plant growing for more than 5 years, there is a patent.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/kovnerchuk " class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/alexey-kovnerchuk/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/kovnerchuk " class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/alexey-kovnerchuk/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1054,8 +1094,8 @@
 					<div class="c_team-item__posit">CBO</div>
 					<div class="c_team-item__desc">Legal and economic issues. Develop & maintaining relations with existing and potential Customers at all levels. Partnerships, sales, projects management.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/olya.bashirova.1" class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/olga-bashirova-177312a6/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/olya.bashirova.1" class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/olga-bashirova-177312a6/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1065,7 +1105,7 @@
 					<div class="c_team-item__posit">AGRO TECHNOLOGY</div>
 					<div class="c_team-item__desc">Specialist in organic farming. More than 5 years own production of organic substrates. In the company he holds the post of technologist, the main task is the introduction of humic substances into hydroponic systems</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100017418731240" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/profile.php?id=100017418731240" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1075,7 +1115,7 @@
 					<div class="c_team-item__posit">AGRONOM</div>
 					<div class="c_team-item__desc">Specialist in modern plant growing. More than 5 years of experience with this area, starting with ground and ending with aeropony.He is responsible for the selection of optimal conditions for the cultivation of different crops. Conducted scientific research for various new varieties of plants.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/evgeniy-kurochkin/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/evgeniy-kurochkin/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1085,7 +1125,7 @@
 					<div class="c_team-item__posit">Programming, Security</div>
 					<div class="c_team-item__desc">Hasan Awan is Cybersecurity Expert in Residence at NED University and has extensive Cybersecurity experience and is a CISSP. Mr Awan has a BS in Electrical Engineering from Sir Syed University of Engineering</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/hasanawan89" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/hasanawan89" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1095,8 +1135,8 @@
 					<div class="c_team-item__posit">Legal adviser</div>
 					<div class="c_team-item__desc">LL.M. in European and International economic law (LMU Munich). Specializes in international trade, services and license contracts, corporate law and dispute resolutions. Supports companies in international project management and negotiations. Legal adviser in Russian IT company. Fluent in German and English.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/olga.prilepina.9 " class="c_team-item__fb"></a>
-						<a href="https://www.linkedin.com/in/olga-prilepina-385764133/" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/olga.prilepina.9 " class="c_team-item__fb" target="_blank"></a>
+						<a href="https://www.linkedin.com/in/olga-prilepina-385764133/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1106,7 +1146,7 @@
 					<div class="c_team-item__posit">IT</div>
 					<div class="c_team-item__desc">Specialization in the field of enterprise management systems, client-server applications in UNIX environments. Work experience more than 20 years</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/sergey-mosolov-29095a162/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1116,7 +1156,7 @@
 					<div class="c_team-item__posit">CSO</div>
 					<div class="c_team-item__desc">Mikhail has been doing international PR and marketing since 2013. As a CSO, he works to develop the strategy, perfect the ATF's global message, and further improve the brand's positioning.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in"></a>
+						<a href="https://www.linkedin.com/in/mikhail-chistopolov/" class="c_team-item__in" target="_blank"></a>
 					</div>
 				</div>
 
@@ -1126,7 +1166,7 @@
 					<div class="c_team-item__posit">Referent</div>
 					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb"></a>
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb" target="_blank"></a>
 					</div>
 				</div>
 			</div>
