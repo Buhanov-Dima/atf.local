@@ -37,7 +37,7 @@
 		<a href="https://agrotechfarm.io/"><div class="h_logo"></div></a>
 		<nav class="h_box">
 			<ul class="h_nav" id="h_nav">
-				<li><a id="d-none-lg">Whitepapper</a></li>
+				<li><a id="d-none-lg">Whitepaper</a></li>
 				<li><a href="#b-2">Solutions</a></li>
 				<li><a href="#b-3">Roadmap</a></li>
 				<li><a href="#b-4">Team</a></li>
@@ -64,7 +64,7 @@
         	<ul id="main_nav-2">
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
 					<ul class="h_nav" id="h_nav">
-						<li><a id="d-none-lg">Whitepapper</a></li>
+						<li><a id="d-none-lg">Whitepaper</a></li>
 						<li><a href="#b-2">Solutions</a></li>
 						<li><a href="#b-3">Roadmap</a></li>
 						<li><a href="#b-4">Team</a></li>
@@ -277,7 +277,7 @@
 
 <div class="m_box c_solution">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown animated">Innovative solution for home, agriculture, business, medicine, science, and education</div>
+		<div class="c_head wow slideInDown animated">Innovative solution<br>for home, agriculture, business, medicine, science and education</div>
 		<div class="zag wow slideInUp animated">ATF Basic</div>
 		<div class="c_solution-list">
 			<!-- <div class="slaider-solutions owl-carousel">
@@ -349,51 +349,51 @@
 				<div class="slaider owl-carousel">
 					<div class="c_product-item c_product-item__strawberry">
 						<div class="c_product-item__title">Strawberry</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 45 to 55 days</div>
 					</div>
 					<div class="c_product-item c_product-item__cucumber">
 						<div class="c_product-item__title">Cucumber</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 45 to 60 days</div>
 					</div>
 					<div class="c_product-item c_product-item__tomato">
 						<div class="c_product-item__title">Tomato</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 55 to 65 days</div>
 					</div>
 					<div class="c_product-item c_product-item__peper">
 						<div class="c_product-item__title">Pepper</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 50 to 60 days</div>
 					</div>
 					<div class="c_product-item c_product-item__salad">
 						<div class="c_product-item__title">Salad</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 14 to 24 days</div>
 					</div>
 					<div class="c_product-item c_product-item__pinach">
 						<div class="c_product-item__title">Spinach</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 14 to 20 days</div>
 					</div>
 					<div class="c_product-item c_product-item__strawberry">
 						<div class="c_product-item__title">Strawberry</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 45 to 55 days</div>
 					</div>
 					<div class="c_product-item c_product-item__cucumber">
 						<div class="c_product-item__title">Cucumber</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 45 to 60 days</div>
 					</div>
 					<div class="c_product-item c_product-item__tomato">
 						<div class="c_product-item__title">Tomato</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 55 to 65 days</div>
 					</div>
 					<div class="c_product-item c_product-item__peper">
 						<div class="c_product-item__title">Pepper</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 50 to 60 days</div>
 					</div>
 					<div class="c_product-item c_product-item__salad">
 						<div class="c_product-item__title">Salad</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 14 to 24 days</div>
 					</div>
 					<div class="c_product-item c_product-item__pinach">
 						<div class="c_product-item__title">Spinach</div>
-						<div class="c_product-item__desc">Ripening period from 45-60 days</div>
+						<div class="c_product-item__desc">Ripening period from 14 to 20 days</div>
 					</div>
 				</div>
 		</div>
@@ -429,7 +429,7 @@
 	<div class="m_inb">
 		<div class="c_head wow slideInDown animated">Technology overview</div>
 		<div class="c_txt c_desc">
-			<p>The ATF equipment combines hydroponics (water), aeroponics (wind), and controlled light to imitate the climatic conditions perfect for the growth of a certain plant variety, such as tomatoes, cucumbers, rucola, strawberries, cannabis, and more. There are only two resources required to have fresh organic food all year round with ATF: water and electricity. By leveraging the combination of technologies, ATF achieves a 30% quicker growth without the use chemicals or other unhealthy practices. The process is fully automated: you simply add seeds (like you fill coffee beans in a coffee machine), nutrient solutions (similarly to adding laundry liquid in a washing machine), and get the crops in when the time comes. The technology is designed for private, commercial, and industrial uses.</p>
+			<p>The ATF equipment combines hydroponics (water), aeroponics (wind), heating and controlled light (sun) to imitate the climatic conditions perfect for the growth of a certain plant variety, such as tomatoes, cucumbers, rucola, strawberries, cannabis, and more. There are only two resources required to have fresh organic food all year round with ATF: water and electricity. By leveraging the combination of technologies, ATF achieves a 30% quicker growth without the use of chemicals or other unhealthy practices. The process is fully automated: you simply add seeds (like you fill coffee beans in a coffee machine), nutrient solutions (similarly to adding laundry liquid in a washing machine), and get the crops in when the time comes. The technology is designed for private, commercial, and industrial uses.</p>
 		</div>
 		<!--<div class="c_tech-box">
 			<div class="c_video c_tech-video">
@@ -691,7 +691,7 @@
 
 <div class="m_box c_why">
 	<div class="m_inb">
-		<div class="c_head wow slideInDown">Token value (WHY INVEST IN THE ICO?)</div>
+		<div class="c_head wow slideInDown">TOKEN VALUE</div>
 		<div class="c_why-list">
 			
 			<div class="c_why-item">
@@ -756,8 +756,8 @@
 				<td>Up to 5,000,000</td>
 			</tr>
 			<tr>
-				<td>ATF Pre-ICO Hard Cap:</td>
-				<td>500 ETH</td>
+				<td>ICO Soft Cap:</td>
+				<td>1,600 ETH</td>
 			</tr>
 			<tr>
 				<td>ICO Hard Cap:</td>
@@ -798,15 +798,15 @@
 				<p>The pre-ICO campaign will start on February 16, 2018 and will last until May 20, 2018.</p>
 				<ul>
 					<li>The maximum number of tokens is limited to hard cap of 500 ETH in the presale.</li>
-					<li>The collected funds will be used to for marketing and preparation of the ICO.</li>
+					<li>The collected funds will be used for marketing and preparation of the ICO.</li>
 				</ul>
 			</div>
 			<div class="c_structure-graf"></div>
 			<div class="c_structure-info c_structure-info__right">
 				<p>The ICO campaign will start on June 1 and will last until July 31, 2018</p>
 				<ul>
-					<li>The maximum number of tokens for the ICO is limited to a Hard Cap of maximum 20 000 ETH.</li>
-					<li>We will refund the contributed money in the main token sale (ICO) if we do not reach the Soft Cap of minimum $1,300,000. Since it would mean that the interest industry is low and also the gathered capital would be not enough.</li>
+					<li>The maximum number of tokens for the ICO is limited to a Hard Cap of maximum 40,000 ETH.</li>
+					<li>We will refund the contributed money in the main token sale (ICO) if we do not reach the Soft Cap of minimum 1,600 ETH. Since it would mean that the interest industry is low and also the gathered capital would be not enough.</li>
 				</ul>
 			</div>			
 		</div>
@@ -831,7 +831,7 @@
 			<div>
 				<a href="/docs/wp_atf.pdf" class="c_document-item" target="_blank">
 					<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
-					<span class="c_document-item__title">White Paper</span>
+					<span class="c_document-item__title">Whitepaper</span>
 					<span class="c_document-item__lang">EN FR IT RU VI KR DE NL</span>
 				</a>
 			</div>
@@ -862,7 +862,7 @@
 		<div class="c_document-list">
 			<a href="/docs/wp_atf.pdf" class="c_document-item" target="_blank">
 				<span class="c_document-item__thumb"><img src="./img/bg-doc-white-paper.jpg" alt="White Paper"></span>
-				<span class="c_document-item__title">White Paper</span>
+				<span class="c_document-item__title">Whitepaper</span>
 				<span class="c_document-item__lang">EN FR IT RU VI KR DE NL</span>
 			</a>
 
@@ -1009,7 +1009,7 @@
 					<div class="c_team-item__posit">Referent</div>
 					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb"></a>
 					</div>
 				</div>
 			</div>
@@ -1126,7 +1126,7 @@
 					<div class="c_team-item__posit">Referent</div>
 					<div class="c_team-item__desc">Natalia has 8 years of experience in developing international relations and providing linguistic services. She joined ATF to apply her experience and skills to strengthening the company's global presence.</div>
 					<div class="c_team-item__link">
-						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__in"></a>
+						<a href="https://www.facebook.com/profile.php?id=100001767542310" class="c_team-item__fb"></a>
 					</div>
 				</div>
 			</div>
@@ -1360,28 +1360,28 @@
 		</div>
 		<div class="c_faq-list" id="close-question">
 			<div class="c_faq-box">
-				<a data-id="q-1">Do you plan to introduce blockchain to the product? </a>
-				<a data-id="q-2">Why raising funds through ICO, not from conventional crowdfunding?</a>
-				<a data-id="q-3">What is the concept of ATF Basic?</a>
-				<a data-id="q-4">What is this technology about?</a>
+				<a data-id="q-1" data-fancybox data-animation-duration="700" data-src="#animatedModal">Do you plan to introduce blockchain to the product? </a>
+				<a data-id="q-2" data-fancybox data-animation-duration="700" data-src="#animatedModal">Why raising funds through ICO, not from conventional crowdfunding?</a>
+				<a data-id="q-3" data-fancybox data-animation-duration="700" data-src="#animatedModal">What is the concept of ATF Basic?</a>
+				<a data-id="q-4" data-fancybox data-animation-duration="700" data-src="#animatedModal">What is this technology about?</a>
 			</div>
 			<div class="c_faq-box">
-				<a data-id="q-5">Who are the potential buyers of ATF?</a>
-				<a data-id="q-6">How to operate the ATF farm? (Как управлять фермой ATF?)</a>
-				<a data-id="q-7">Any information about the potential of the market?</a>
-				<a data-id="q-8">Are there any competitive advantages of your product?</a>
+				<a data-id="q-5" data-fancybox data-animation-duration="700" data-src="#animatedModal">Who are the potential buyers of ATF?</a>
+				<a data-id="q-6" data-fancybox data-animation-duration="700" data-src="#animatedModal">How to operate the ATF farm?</a>
+				<a data-id="q-7" data-fancybox data-animation-duration="700" data-src="#animatedModal">Any information about the potential of the market?</a>
+				<a data-id="q-8" data-fancybox data-animation-duration="700" data-src="#animatedModal">Are there any competitive advantages of your product?</a>
 			</div>
 			<div class="c_faq-box">
-				<a data-id="q-9">When are you planning to deliver ATF farms to customers? </a>
-				<a data-id="q-10">Does this product already exist?</a>
-				<a data-id="q-11">Is there any calculations of product payback period for a customer? </a>
-				<a data-id="q-12">How much does additional nutrition cost? </a>
+				<a data-id="q-9" data-fancybox data-animation-duration="700" data-src="#animatedModal">When are you planning to deliver ATF farms to customers? </a>
+				<a data-id="q-10" data-fancybox data-animation-duration="700" data-src="#animatedModal">Does this product already exist?</a>
+				<a data-id="q-11" data-fancybox data-animation-duration="700" data-src="#animatedModal">Is there any calculations of product payback period for a customer? </a>
+				<a data-id="q-12" data-fancybox data-animation-duration="700" data-src="#animatedModal">How much does additional nutrition cost? </a>
 			</div>
 			<div class="c_faq-box">
-				<a data-id="q-13">How much electricity does the system consume?</a>
-				<a data-id="q-14">Which plants can be grown with ATF?</a>
-				<a data-id="q-15">What is agro appliance size?</a>
-				<a data-id="q-16">Is your corporate apps free  for users?</a>
+				<a data-id="q-13" data-fancybox data-animation-duration="700" data-src="#animatedModal">How much electricity does the system consume?</a>
+				<a data-id="q-14" data-fancybox data-animation-duration="700" data-src="#animatedModal">Which plants can be grown with ATF?</a>
+				<a data-id="q-15" data-fancybox data-animation-duration="700" data-src="#animatedModal">What is agro appliance size?</a>
+				<a data-id="q-16" data-fancybox data-animation-duration="700" data-src="#animatedModal">Is your corporate apps free  for users?</a>
 			</div>
 		</div>
 		<div class="c_faq-list-open">
@@ -1636,7 +1636,7 @@
 <div class="m_box c_subs">
 	<div class="m_inb">
 		<div class="c_head wow slideInDown animated">Subscribe</div>
-		<div class="c_desc wow slideInUp animated">Follow the life of the Agro Tech Farm</div>
+		<div class="c_desc wow slideInUp animated">Stay updated on the AgroTechFarm ICO</div>
 		<div class="c_subs-form">
 			<form action="" method="POST">
 				<input type="text" name="s" id="s" placeholder="Your email address">
@@ -1674,7 +1674,7 @@
 			<div class="f_nav">
 			<div class="f_head">Information</div>
 			<ul>
-				<li><a id="d-none-lg">Whitepapper</a></li>
+				<li><a id="d-none-lg">Whitepaper</a></li>
 				<li><a href="#b-2">Solutions</a></li>
 				<li><a href="#b-3">Roadmap</a></li>
 				<li><a href="#b-4">Team</a></li>
@@ -1702,7 +1702,7 @@
       <div class="card-body">
         <div style="display: none;" id="popup-2" class="animated-modal">
         	<div class="wrap-popup-2">
-        		<h2>What is this technology about?</h2>
+        		<h2>Referral program</h2>
         		<p>Register on the site agrotechfarm.io to get your referral link, which you can post on your website, blogs, social networks or share with your friends.<br>Your referral link is available in your personal account at: <a href="https://www.agrotechfarm.io/">agrotechfarm.io</a><br>When someone registers to buy tokens from your link, they will be linked to you and you will receive 5% of the purchased by him or her tokens during Pre-ICO and ICO.<br>ATF tokens will be credited to your ETH wallet address within 10 days after the end of ICO Agro Tech Farm.<br>The current balance of ATF referral tokens you can see in your personal account at <a href="https://www.agrotechfarm.io/">agrotechfarm.io</a><br>To earn with the help of the referral program please follow these steps:<br>1. Register on agrotechfarm.io<br>2. Click on your personal account.<br>3. Specify your ETH wallet address.<br>4. After that you will get you referral link.<br>5. Share this link on your website, blogs, social networks or with your friends.<br>Recommendation: register in all available social networks ICO Agro Tech Farm and make reposts by adding your referral link.<br>Support: <a href="mailto:bounty@agrotechfarm.io">bounty@agrotechfarm.io</a><br>If you have problems, please contact us at Telegram: <a href="https://t.me/atfbounty">https://t.me/atfbounty</a></p>
         		<div data-fancybox data-animation-duration="700" data-src="#animatedModal" href="javascript:;" class="c_faq-btn">All questions</div>
         	</div>

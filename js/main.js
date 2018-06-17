@@ -257,6 +257,13 @@ $(document).ready(function(){
       $(this).addClass('active');
     })
 
+    $('#close-question a').click(function(e){
+        e.preventDefault();
+        $.fancybox.open({src  : '#animatedModal', type : 'inline',});
+        $(".all_questions").removeClass('active');
+        $('.all_questions[data-id='+$(this).attr('data-id')+']').addClass('active');
+    });
+
     $(".all_questions").click(function(e) {
       e.preventDefault();
       $(".all_questions").removeClass('active');
@@ -327,10 +334,11 @@ $(document).ready(function(){
         var hours = diff % 24;
         if(hours < 10) hours = "0"+hours;
         var days = Math.floor(diff / 24);
-        d.innerHTML = days;
-        h.innerHTML = hours;
-        m.innerHTML = min;
-        s.innerHTML = sec;
+
+        d.html(days);
+        h.html(hours);
+        m.html(min);
+        s.html(sec);
       
         // следующий раз вызываем себя, когда закончится текущая секунда
         setTimeout(update, millis);
@@ -338,8 +346,7 @@ $(document).ready(function(){
       setTimeout(update, 0);
     };
      
-    updater(document.getElementById("days"), document.getElementById("hours"), document.getElementById("minutes"), 
-    document.getElementById("seconds"));
+    updater($("#days"), $("#hours"), $("#minutes"), $("#seconds"));
 
 
      // побуквенное появление заголовка
@@ -385,11 +392,11 @@ $(document).ready(function(){
     //paralax 
 
 
-    jQuery('.c_head-1').addClass("hidden").viewportChecker({
+    /*jQuery('.c_head-1').addClass("hidden").viewportChecker({
         classToAdd: 'visible',
         offset: 100
        });
-    
+ */    
 
     
  	
