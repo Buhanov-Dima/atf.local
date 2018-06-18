@@ -1689,8 +1689,8 @@ div.c_press-item {display: flex; align-items: center;}
     text-align: center;
     padding: 11px;
     position: fixed;
-    bottom: 10px;
-    right: 30px;
+    bottom: 5%;
+    right: 5%;
     cursor: pointer;
     display: none;
     color: #ffffff;
