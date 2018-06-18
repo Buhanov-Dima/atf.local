@@ -52,7 +52,7 @@
 			</ul>
 			<a href="/home/" target="_blank"><div class="h_signin">Sign In</div></a>
 			<ul id="main_nav">
-	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
+	            <li><a class="btn-menu"><img src="/img/button-menu.png" alt=""></a>
 	                <ul class="h_share">
 	                    <li class="h_share-m"><a href="https://medium.com/@agro_tech_farm" target="_blank"></a></li>
 						<li class="h_share-b"><a href="https://bitcointalk.org/index.php?topic=2817270" target="_blank"></a></li>
@@ -62,7 +62,7 @@
 	            </li>
         	</ul>
         	<ul id="main_nav-2">
-	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
+	            <li><a class="btn-menu"><img src="/img/button-menu.png" alt=""></a>
 					<ul class="h_nav" id="h_nav">
 						<li><a href="/docs/wp_atf.pdf" id="d-none-lg">Whitepaper</a></li>
 						<li><a href="#b-2">Solutions</a></li>
@@ -1763,7 +1763,7 @@
 </footer><!-- .footer -->
 </div>
 <!-- popup -->
-<div id="toTop">UP</div>
+<div id="toTop"></div>
 	<div class="card">
       <div class="card-body">
         <div style="display: none;" id="popup-2" class="animated-modal">

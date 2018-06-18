@@ -1635,6 +1635,10 @@ div.c_press-item {display: flex; align-items: center;}
 .c_document-item__lang a{
     text-decoration: none;
     border-bottom: none;
+    color: #a9a9a9;
+}
+.c_document-item__lang a:first-child{
+    color: #ffffff;
 }
 .item-point {display: none;}
 .item-point.active {display: block;}
@@ -1693,4 +1697,20 @@ div.c_press-item {display: flex; align-items: center;}
     color: #ffffff;
     z-index: 99999999;
     border-radius: 50%;
+}
+
+#toTop::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-left: 2px solid #c5c7d0;
+    border-bottom: 2px solid #c5c7d0;
+    background-color: transparent;
+    left: 0;
+    right: 0;
+    top: 9px;
+    bottom: 0;
+    margin: auto;
+    transform: rotate(135deg);
 }
