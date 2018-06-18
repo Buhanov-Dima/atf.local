@@ -1640,9 +1640,20 @@ div.c_press-item {display: flex; align-items: center;}
 .c_document-item__lang a:first-child{
     color: #ffffff;
 }
-.item-point {display: none;}
-.item-point.active {display: block;}
+.item-point {
+    opacity: 0;
+    height: 0;
+    background-color: rgb(23, 28, 68);
+    border-radius: 4px;
+    border: 1px solid #4b4078;
+    line-height: 1.2;
+    font-size: 12px;
+    transition: .3s;
+    padding: 0;
+}
+.item-point.active { opacity: 1; height: auto; display: block; padding: 15px 5px 15px 25px;}
 .c_howit-item__point.active {opacity: 1 !important;}
+.c_howit-item__point {transition: .5s;}
 .op-minus {opacity: 0;}
 .h_top {
     position: absolute;
