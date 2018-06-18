@@ -32,7 +32,6 @@
 <body>
 <div class="bg-header"></div>
 <header class="m_box header">
-<div id="toTop">UP</div>
 	<div class="m_inb h_top">
 		<div class="wrap-header">
 		<a href="https://agrotechfarm.io/"><div class="h_logo"></div></a>
@@ -1764,7 +1763,7 @@
 </footer><!-- .footer -->
 </div>
 <!-- popup -->
-
+<div id="toTop">UP</div>
 	<div class="card">
       <div class="card-body">
         <div style="display: none;" id="popup-2" class="animated-modal">
