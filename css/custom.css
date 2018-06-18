@@ -572,7 +572,7 @@
 #main_nav {
 	position: absolute;
 	right: 0;
-	top: 22px;
+	top: 14px;
 	display: none;
 }
 
@@ -1635,4 +1635,61 @@ div.c_press-item {display: flex; align-items: center;}
 .c_document-item__lang a{
     text-decoration: none;
     border-bottom: none;
+}
+.item-point {display: none;}
+.item-point.active {display: block;}
+
+.h_top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: .5s;
+    
+}
+.m_box.header {
+    padding-top: 60px;
+}
+.h_top.fix-header {
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    background-color: rgb(23, 28, 68);
+    width: 100%;
+    max-width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999999;
+    transition: .5s;
+}
+.wrap-header {
+    width: 100%;
+    max-width: 1220px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transition: .5s;
+}
+
+
+#toTop {
+    width: 50px;
+    height: 50px;
+    border: 3px solid #4b4078;
+    background: rgb(23, 28, 68);
+    text-align: center;
+    padding: 11px;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    color: #ffffff;
+    z-index: 99999999;
+    border-radius: 50%;
 }

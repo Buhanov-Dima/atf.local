@@ -32,12 +32,13 @@
 <body>
 <div class="bg-header"></div>
 <header class="m_box header">
-
+<div id="toTop">UP</div>
 	<div class="m_inb h_top">
+		<div class="wrap-header">
 		<a href="https://agrotechfarm.io/"><div class="h_logo"></div></a>
 		<nav class="h_box">
 			<ul class="h_nav" id="h_nav">
-				<li><a id="d-none-lg">Whitepaper</a></li>
+				<li><a href="/docs/wp_atf.pdf" id="d-none-lg">Whitepaper</a></li>
 				<li><a href="#b-2">Solutions</a></li>
 				<li><a href="#b-3">Roadmap</a></li>
 				<li><a href="#b-4">Team</a></li>
@@ -64,7 +65,7 @@
         	<ul id="main_nav-2">
 	            <li><a class="btn-menu" href="#"><img src="/img/button-menu.png" alt=""></a>
 					<ul class="h_nav" id="h_nav">
-						<li><a id="d-none-lg">Whitepaper</a></li>
+						<li><a href="/docs/wp_atf.pdf" id="d-none-lg">Whitepaper</a></li>
 						<li><a href="#b-2">Solutions</a></li>
 						<li><a href="#b-3">Roadmap</a></li>
 						<li><a href="#b-4">Team</a></li>
@@ -80,7 +81,7 @@
 	            </li>
         	</ul>
 		</nav>
-		
+		</div>
 	</div>
 	<div class="m_inb h_middle">
 		<h1 class="main-h1-b1">THE PLANET’S ORGANIC FUTURE BEGINS NOW. BE PART OF IT.</h1>
@@ -456,12 +457,32 @@
 		<div class="c_howit-mod">
 			<div class="c_howit-item">
 				<div class="c_howit-item__point c_howit-item__point1" data-id="1">Electronic complete air purification system</div>
-					<div><p></p></div>
-				<div class="c_howit-item__point c_howit-item__point2 active" data-id="2">Two-circuit air circulation system</div>
-				<div class="c_howit-item__point c_howit-item__point3" data-id="3">Adaptive LED lamp</div>
+					<div class="item-point" data-id="1"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
+				<div class="c_howit-item__point c_howit-item__point2 active" data-id="2">Double air circulation system</div>
+					<div class="item-point" data-id="2">
+						<ul>
+							<li>Automated air temperature control that does not employ a cooler reduces energy consumption;</li>
+							<li>Density control through the micronized water dispersion;</li>
+							<li>Active airflow system that will secure the development of a strong stem and plat crown airing.</li>
+						</ul>
+					</div>
+				<div class="c_howit-item__point c_howit-item__point3" data-id="3">Lighting system</div>
+					<div class="item-point" data-id="3">
+						<ul>
+							<li>LED lighting by Osram;</li>
+							<li>Pre-programmed color spectrum for each specific plant variety ranging from 440 nm to 740 nm;</li>
+							<li>automatic power control up to 400 W depending on a plant’s growth stage and species;</li>
+							<li>supplementary side lighting for advanced growth stages;</li>
+							<li>Sunrise and sunset emulation;</li>
+							<li>PRO mode allows for full control and customization of color spectrum, intensity, and switch-on time settings.</li>
+						</ul>
+					</div>
 				<div class="c_howit-item__point c_howit-item__point4" data-id="4">Built-in HD camera</div>
+					<div class="item-point" data-id="4"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point5" data-id="5">Universal module of growing</div>
+					<div class="item-point" data-id="5"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point6" data-id="6">Node of connection to utility networks</div>
+					<div class="item-point" data-id="6"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 			</div>
 			<div class="wrap-howitbox">
 				<div class="howitbox-n">
@@ -497,11 +518,17 @@
 			</div>
 			<div class="c_howit-item">
 				<div class="c_howit-item__point c_howit-item__point7" data-id="7">Replaceable high-efficiency charcoal filter</div>
+					<div class="item-point" data-id="7"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point8" data-id="8">Node fertilizing plants</div>
+					<div class="item-point" data-id="8"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point9" data-id="9">A system for recognizing plant height</div>
+					<div class="item-point" data-id="9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point10" data-id="10">Lateral illumination system plant</div>
+					<div class="item-point" data-id="10"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point11" data-id="11">Built-in solution unit</div>
+					<div class="item-point" data-id="11"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 				<div class="c_howit-item__point c_howit-item__point12" data-id="12">A nutrient solution monitoring system</div>
+					<div class="item-point" data-id="12"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste odit excepturi consectetur libero maiores dicta, perferendis temporibus iusto, facilis rem animi, repellat minus quod magni amet illo? Expedita, debitis velit?</p></div>
 			</div>
 		</div>
 	</div>

@@ -5,4 +5,4 @@
 .c_faq-box {width: 50%; margin: 15px 0;} .c_sales-video {width: 90%; margin: 25px auto;} .c_sales-box1 {width: 45%; margin: auto;} .c_sales-box2 {width: 42%; margin: auto;}
 .m_inb.f_top .h_logo{position: absolute; top: -75px; margin: auto; left: 0; right: 0;} .slaider, .slaider-1, .slaider-2, .slaider-team {max-width: 600px;}
 .wrap-icons {flex-wrap: wrap;justify-content: center;} .widgets {justify-content: center;} .ratings {margin: 0 10px;}
-.c_video.c_problems-video {width: 100%; max-width: 590px; margin: auto;} 
+.c_video.c_problems-video {width: 100%; max-width: 590px; margin: auto;} .h_logo {margin-left: 20px;}

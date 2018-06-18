@@ -225,6 +225,16 @@ $(document).ready(function(){
             }
         }  
     });
+/*   ферма инфо при наведении (работает не корректно)
+    $(".c_howit-item__point").hover(function() {
+      let idDot = $(this).data('id');
+      $(".item-point"+idDot).removeClass('active');
+      $(this).addClass('active');
+      $(".item-point").removeClass('active');
+      $('.item-point[data-id='+$(this).attr('data-id')+']').addClass('active');
+    });
+*/
+
 
     $('.c_howit-box__dot').hover(function(){
     let idDot = $(this).data('id');
@@ -237,18 +247,17 @@ $(document).ready(function(){
         $('.howitbox-n div').removeClass('d-index');
       });
 
-  $('.c_howit-item__point').hover(function(){
+    $('.c_howit-item__point').hover(function(){
     let idDot = $(this).data('id');
     $('.c_howit-box__dot'+idDot).addClass('active').siblings().removeClass('active');
     $(this).parents('.c_howit-mod').find('.c_howit-item__point').removeClass('active');
     $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
     $(this).addClass('active');
-  }, 
+    }, 
     function(){
         $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
         $('.howitbox-n div').removeClass('d-index');
       });
-
     // roadmap click info
 
     $(".c_roadmap-box__line").click(function(e) {
@@ -419,4 +428,27 @@ $(function () {
     var austDay = new Date(2018, 6-1, 25);
     austDay = new Date(2018, 7-1, 31);
     $('#defaultCountdown').countdown({until: austDay});
+});
+
+$(window).scroll(function(){
+    if ($(window).scrollTop() > 1) {
+        $('.h_top').addClass('fix-header');
+    }
+    else {
+        $('.h_top').removeClass('fix-header');
+    };
+});
+
+$(function() {
+ 
+$(window).scroll(function() {
+if($(this).scrollTop() != 0) {
+$('#toTop').fadeIn();
+} else {
+$('#toTop').fadeOut();
+}
+});
+$('#toTop').click(function() {
+$('body,html').animate({scrollTop:0},800);
+});
 });
