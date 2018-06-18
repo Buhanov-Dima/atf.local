@@ -237,26 +237,32 @@ $(document).ready(function(){
 
 
     $('.c_howit-box__dot').hover(function(){
-    let idDot = $(this).data('id');
-    $('.c_howit-item__point'+idDot).addClass('active').siblings().removeClass('active');
-    $(this).addClass('active').siblings().removeClass('active');
-    $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
-    }, 
+        let idDot = $(this).data('id');
+        $('.c_howit-item__point'+idDot).addClass('active').siblings().removeClass('active');
+        $(this).addClass('active').siblings().removeClass('active');
+        $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
+        $('.c_howit-item__point').addClass('op-minus');
+        $('.item-point[data-id='+idDot+']').addClass('active');
+    },
     function(){
-        $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+        $('.c_howit-item__point, .c_howit-box__dot, .item-point').removeClass('active');
         $('.howitbox-n div').removeClass('d-index');
-      });
+        $('.c_howit-item__point').removeClass('op-minus');
+    });
 
     $('.c_howit-item__point').hover(function(){
-    let idDot = $(this).data('id');
-    $('.c_howit-box__dot'+idDot).addClass('active').siblings().removeClass('active');
-    $(this).parents('.c_howit-mod').find('.c_howit-item__point').removeClass('active');
-    $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
-    $(this).addClass('active');
+        let idDot = $(this).data('id');
+        $('.c_howit-box__dot'+idDot).addClass('active').siblings().removeClass('active');
+        $(this).parents('.c_howit-mod').find('.c_howit-item__point').removeClass('active');
+        $('.howitbox-n div[data-id='+idDot+']').addClass('d-index');
+        $(this).addClass('active');
+        $('.c_howit-item__point').addClass('op-minus');
+        $('.item-point[data-id='+idDot+']').addClass('active');
     }, 
     function(){
-        $('.c_howit-item__point, .c_howit-box__dot').removeClass('active');
+        $('.c_howit-item__point, .c_howit-box__dot, .item-point').removeClass('active');
         $('.howitbox-n div').removeClass('d-index');
+        $('.c_howit-item__point').removeClass('op-minus');
       });
     // roadmap click info
 

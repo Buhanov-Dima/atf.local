@@ -37,7 +37,7 @@
 		<a href="https://agrotechfarm.io/"><div class="h_logo"></div></a>
 		<nav class="h_box">
 			<ul class="h_nav" id="h_nav">
-				<li><a href="/docs/wp_atf.pdf" id="d-none-lg">Whitepaper</a></li>
+				<li><a href="#docs" id="d-none-lg">Whitepaper</a></li>
 				<li><a href="#b-2">Solutions</a></li>
 				<li><a href="#b-3">Roadmap</a></li>
 				<li><a href="#b-4">Team</a></li>
@@ -851,7 +851,7 @@
 </div><!-- .content -->
 
 
-<div class="m_box c_document">
+<div class="m_box c_document" id="docs">
 	<div class="m_inb">
 		<div class="c_head wow slideInDown animated">Documents</div>
 		<div class="slaider-documents owl-carousel">

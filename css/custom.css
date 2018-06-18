@@ -1638,7 +1638,8 @@ div.c_press-item {display: flex; align-items: center;}
 }
 .item-point {display: none;}
 .item-point.active {display: block;}
-
+.c_howit-item__point.active {opacity: 1 !important;}
+.op-minus {opacity: 0;}
 .h_top {
     position: absolute;
     top: 0;
